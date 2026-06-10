@@ -26,8 +26,9 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 HERE = os.path.dirname(os.path.abspath(__file__))
 PROTOTYPE_DIR = os.path.join(HERE, "prototype")
 
-# Where uploaded blueprints land — the pipeline's intake folder.
-INTAKE_DIR = r"C:\Users\jenna\Downloads\ArtisContentResearchProject\Interior Professional Trends\Client Blueprints"
+# Where uploaded blueprints land — the repo's blueprints/ folder (the pipeline's
+# intake). Override with INTAKE_DIR if you keep blueprints elsewhere locally.
+INTAKE_DIR = os.environ.get("INTAKE_DIR", os.path.join(HERE, "blueprints"))
 
 
 def safe_name(name):

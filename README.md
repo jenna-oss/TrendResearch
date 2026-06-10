@@ -1,4 +1,13 @@
-# Handoff: ARTIS — Trend Intelligence for Luxury Interiors
+# ARTIS — Trend Intelligence for Luxury Interiors
+
+> **Deploying this for your firm? → see [DEPLOY.md](./DEPLOY.md).**
+> Click **“Use this template”** above to get your own copy, then follow the 7 steps
+> (GitHub + Vercel + an Anthropic API key, ~15 min). No servers, no database.
+
+The rest of this file is the technical reference for the app's design and data
+contract.
+
+---
 
 ## Overview
 ARTIS is a monthly trend-intelligence web app for **brand partners** at a marketing team
