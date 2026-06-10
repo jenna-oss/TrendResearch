@@ -366,7 +366,10 @@ EDITORIAL_SYSTEM = (
     "lead, reframe, cautiously acknowledge, or ignore those conversations in public.\n\n"
     "You reason with the precision of a creative director who has read the client blueprint "
     "many times. You do not produce generic recommendations. Every output must be specific "
-    "to this client and could not be said by any of their competitors."
+    "to this client and could not be said by any of their competitors.\n\n"
+    "Refer to the client firm and its principal with gender-neutral pronouns "
+    "(they/them/their) unless the blueprint explicitly states a pronoun. Use the correct "
+    "pronouns for other named individuals (designers, artists, historical figures)."
 )
 
 
@@ -651,7 +654,9 @@ def generate_strategic_summary(client_name, issue_label, editorial_profile,
     system_prompt = (
         "You synthesize editorial strategy for luxury design clients. Given a ranked agenda of "
         "editorial opportunities and a client editorial profile, you identify the editorial "
-        "territory this client should own this cycle and the narrative that unifies it."
+        "territory this client should own this cycle and the narrative that unifies it. "
+        "Refer to the client firm and its principal with gender-neutral pronouns "
+        "(they/them/their) unless the blueprint explicitly states a pronoun."
     )
 
     convictions = [c.get("statement", "") for c in editorial_profile.get("convictions", [])]
@@ -810,7 +815,9 @@ def evaluate_holidays(editorial_profile, holidays, client_name):
         "upcoming holidays and cultural moments the firm should speak on in public — and which to ignore — "
         "strictly through the lens of the client's documented convictions, obsessions, anti-beliefs, and "
         "voice. A holiday is only worth speaking on if the client can say something specific and true to who "
-        "they are; generic 'Happy [Holiday]' posts fail."
+        "they are; generic 'Happy [Holiday]' posts fail. Refer to the client firm and its principal with "
+        "gender-neutral pronouns (they/them/their) unless the blueprint explicitly states a pronoun; use "
+        "correct pronouns for other named individuals."
     )
 
     user_prompt = f"""Evaluate these upcoming holidays for {client_name}.
