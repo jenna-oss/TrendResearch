@@ -513,6 +513,23 @@ p { margin: 0; }
 .ec-cs-tags b { color: var(--ink-2); font-weight: 500; }
 .ec-cs-brief { margin: 30px 0; padding: 26px 30px; border: 1px solid var(--line); border-left: 2px solid var(--accent); border-radius: var(--radius); background: var(--bg-1); font-family: var(--font-display); font-size: 21px; line-height: 1.45; color: var(--ink); text-wrap: pretty; }
 .ec-cs-brief .ec-eyebrow { font-family: var(--font-body); margin-bottom: 12px; }
+/* Holidays to speak on (By-Client) */
+.ec-holidays { margin: 0 0 30px; }
+.ec-holidays-head { display: flex; flex-direction: column; gap: 3px; margin-bottom: 16px; }
+.ec-holidays-sub { font-size: 12.5px; color: var(--muted); }
+.ec-holiday-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+.ec-holiday { border: 1px solid var(--line); border-left: 2px solid var(--accent); border-radius: var(--radius); background: var(--bg-1); padding: 18px 20px; display: flex; flex-direction: column; gap: 9px; }
+.ec-holiday-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.ec-holiday-name { font-family: var(--font-display); font-size: 20px; line-height: 1.15; color: var(--ink); }
+.ec-holiday-meta { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: -3px; }
+.ec-holiday-date { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.ec-holiday-cat { font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; }
+.ec-holiday-why { font-size: 13.5px; line-height: 1.55; color: var(--ink-2); text-wrap: pretty; }
+.ec-holiday-angle { font-size: 12.5px; line-height: 1.5; color: var(--ink-2); }
+.ec-holiday-angle span { font-size: 9.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-right: 6px; }
+.ec-holiday-op { display: flex; gap: 9px; align-items: flex-start; font-size: 13px; line-height: 1.5; color: var(--muted); font-style: italic; padding: 10px 13px; background: var(--bg-2); border-radius: var(--radius); }
+.ec-holiday-op .ec-op-ic { color: var(--accent); flex: none; font-style: normal; }
+
 .ec-cs-counts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 8px; }
 .ec-cs-count { border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 20px; display: flex; flex-direction: column; gap: 4px; }
 .ec-cs-count-n { font-family: var(--font-display); font-size: 34px; line-height: 1; }

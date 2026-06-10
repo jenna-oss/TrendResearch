@@ -1,6 +1,40 @@
 // ARTIS — By-Client strategy view. text/babel → window.
 // Renders backend-provided STRATEGY[clientId]: brief + per-trend {verdict, fit, why, opinion}.
 
+function HolidayPanel({ holidays, issue }) {
+  const worth = (holidays || []).filter((h) => h.recommendation && h.recommendation !== "Skip");
+  if (!worth.length) return null;
+  const order = { Lead: 0, Consider: 1 };
+  worth.sort((a, b) => (order[a.recommendation] ?? 9) - (order[b.recommendation] ?? 9));
+  return (
+    <div className="ec-holidays">
+      <div className="ec-holidays-head">
+        <Eyebrow>Holidays to speak on · {issue}</Eyebrow>
+        <span className="ec-holidays-sub">Cultural & design-world moments that fit this firm's voice</span>
+      </div>
+      <div className="ec-holiday-list">
+        {worth.map((h, i) => (
+          <div key={i} className="ec-holiday">
+            <div className="ec-holiday-top">
+              <span className="ec-holiday-name">{h.name}</span>
+              <Verdict verdict={h.recommendation === "Lead" ? "Lead" : "Watch"} />
+            </div>
+            <div className="ec-holiday-meta">
+              {h.date && <span className="ec-holiday-date">{h.date}</span>}
+              {h.category && <span className="ec-holiday-cat">{h.category === "design_art" ? "Design & Art" : "General"}</span>}
+            </div>
+            {h.why && <p className="ec-holiday-why">{h.why}</p>}
+            {h.angle && <p className="ec-holiday-angle"><span>Angle</span> {h.angle}</p>}
+            {h.likely_opinion && (
+              <div className="ec-holiday-op"><span className="ec-op-ic"><Icon name="quote" size={14} /></span>{h.likely_opinion}</div>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 function CountTile({ k, n, active, onClick }) {
   const fg = { Lead: "var(--v-lead-fg)", Watch: "var(--v-watch-fg)", Skip: "var(--v-skip-fg)" }[k];
   return (
@@ -70,6 +104,8 @@ function ClientStrategy({ client, go, t, onBack }) {
         <Eyebrow>Brand strategy · {ISSUE.label}</Eyebrow>
         {strat.brief}
       </div>
+
+      <HolidayPanel holidays={strat.holidays} issue={ISSUE.label} />
 
       <div className="ec-cs-counts">
         <CountTile k="Lead" n={strat.counts.Lead} active={vf === "Lead"} onClick={() => setVf(vf === "Lead" ? "all" : "Lead")} />

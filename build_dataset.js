@@ -215,7 +215,7 @@ function adoptStrategy(loaded, clientName) {
     Watch: v.filter((p) => p.verdict === 'Watch').length,
     Skip: v.filter((p) => p.verdict === 'Skip').length,
   };
-  return { brief: loaded.brief || `Strategy for ${clientName}, ${ISSUE.label}.`, counts, picks };
+  return { brief: loaded.brief || `Strategy for ${clientName}, ${ISSUE.label}.`, counts, picks, holidays: loaded.holidays || [] };
 }
 
 const STRATEGY = {};
