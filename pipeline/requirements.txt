@@ -1,0 +1,12 @@
+# ARTIS pipeline — Python dependencies (GitHub Actions + local)
+anthropic
+feedparser
+trafilatura
+lxml
+lxml_html_clean
+python-dotenv
+python-dateutil
+pytrends
+requests
+beautifulsoup4
+playwright

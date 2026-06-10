@@ -7,6 +7,9 @@
 __pycache__/
 *.pyc
 
+# pipeline runtime working tree (regenerated each run)
+pipeline/workdir/
+
 # node / vercel
 node_modules/
 .vercel/
