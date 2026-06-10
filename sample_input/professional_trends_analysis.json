@@ -1,0 +1,3157 @@
+{
+  "generated_at": "2026-06-09T19:53:02.405668+00:00",
+  "vertical": "interior_design",
+  "question_served": "professional_trend",
+  "input_signal_count": 115,
+  "canonical_cluster_count": 101,
+  "patterns_total": 81,
+  "patterns_confirmed": 0,
+  "patterns_cross_source": 3,
+  "patterns_single_source": 78,
+  "patterns": [
+    {
+      "theme_label": "bathroom-as-retreat design",
+      "tier": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Architectural Digest",
+        "Elle Decor"
+      ],
+      "signal_count": 7,
+      "weighted_score": 54.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Bathroom Remodel Trends to Create Your Personal At-Home Oasis",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/trends/a71443101/bathroom-remodel-trends/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports multiple emerging bathroom trends toward spa-like personalization and wellness-driven design; clear trend compilation."
+        },
+        {
+          "title": "Bathroom Remodel Trends to Create Your Personal At-Home Oasis",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/trends/a71443101/bathroom-remodel-trends/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports multiple emerging bathroom trends toward spa-like personalization and wellness-driven design; clear trend compilation."
+        },
+        {
+          "title": "Bathroom Remodel Trends to Create Your Personal At-Home Oasis",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/trends/a71443101/bathroom-remodel-trends/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports multiple emerging bathroom trends toward spa-like personalization and wellness-driven design; clear trend compilation."
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "theme_label": "monogrammed furniture revival",
+      "tier": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Business of Home",
+        "Veranda"
+      ],
+      "signal_count": 2,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Kelly Wearstler\u2019s latest Lee Jofa Modern launch, GreenRow\u2019s collab with the New York Botanical Garden, and more",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/kelly-wearstler-s-latest-lee-jofa-modern-launch-greenrow-s-collab-with-the-new-york-botanical-garden-and-more.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Weekly product roundup featuring Kelly Wearstler's Tela collection and NY Botanical Garden collaboration, presenting emerging organic and botanical themes across multiple launches."
+        },
+        {
+          "title": "We Want to Steal These 7 Trends From WOW!house for Our Own Homes ASAP",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/home-decorators/design-trends/a71485962/wowhouse-2026-design-trends/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Comprehensive trend report from WOW!house showcasing multiple rising movements like verdigris replacing brass and animalia furniture gaining momentum."
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "theme_label": "California casual luxury",
+      "tier": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Architectural Digest",
+        "Elle Decor"
+      ],
+      "signal_count": 3,
+      "weighted_score": 12.6,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 0.67,
+      "trend_signal_rate": 0.67,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "RH Estates Debuts with Classic Designs by the Legendary Michael Taylor",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/rh-estates-debuts-with-a-collection-by-michael-taylor",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong revival signal of Michael Taylor's influential California look through RH Estates launch, positioning classic West Coast design as rising trend with specific named pieces and design philosophy."
+        },
+        {
+          "title": "RH Estates Debuts with Classic Designs by the Legendary Michael Taylor",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/rh-estates-debuts-with-a-collection-by-michael-taylor",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong revival signal of Michael Taylor's influential California look through RH Estates launch, positioning classic West Coast design as rising trend with specific named pieces and design philosophy."
+        },
+        {
+          "title": "Designer Michael S. Smith Brings a Palazzo to Palm Springs",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71472214/michael-s-smith-palm-springs-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Established luxury designers discussing California decorating traditions and Palm Springs luxury residential design."
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "theme_label": "scrappy luxury",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 4,
+      "weighted_score": 36.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Scrappy Materials and a Shrewd Layout Transform a 1950s Fire Island Home",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/john-woell-renovation-in-fire-island",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing rising appreciation for authentic midcentury materials and restraint-based luxury through specific architect's approach and philosophy."
+        },
+        {
+          "title": "Scrappy Materials and a Shrewd Layout Transform a 1950s Fire Island Home",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/john-woell-renovation-in-fire-island",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing rising appreciation for authentic midcentury materials and restraint-based luxury through specific architect's approach and philosophy."
+        },
+        {
+          "title": "Scrappy Materials and a Shrewd Layout Transform a 1950s Fire Island Home",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/john-woell-renovation-in-fire-island",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing rising appreciation for authentic midcentury materials and restraint-based luxury through specific architect's approach and philosophy."
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "theme_label": "1990s design revival",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 4,
+      "weighted_score": 36.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Hugues de\u00a0Bligni\u00e8res\u00a0Gives a\u00a0Haussmannian\u00a0Apartment Slick New Attitude",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/hugues-de-blignieres-gives-a-haussmannian-apartment-slick-new-attitude/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents Hugues de Bligni\u00e8res inserting contemporary stainless steel elements and 1990s design pieces into traditional Haussmannian architecture, positioning this historical-contemporary fusion as an emerging luxury direction."
+        },
+        {
+          "title": "Hugues de\u00a0Bligni\u00e8res\u00a0Gives a\u00a0Haussmannian\u00a0Apartment Slick New Attitude",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/hugues-de-blignieres-gives-a-haussmannian-apartment-slick-new-attitude/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents Hugues de Bligni\u00e8res inserting contemporary stainless steel elements and 1990s design pieces into traditional Haussmannian architecture, positioning this historical-contemporary fusion as an emerging luxury direction."
+        },
+        {
+          "title": "Hugues de\u00a0Bligni\u00e8res\u00a0Gives a\u00a0Haussmannian\u00a0Apartment Slick New Attitude",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/hugues-de-blignieres-gives-a-haussmannian-apartment-slick-new-attitude/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents Hugues de Bligni\u00e8res inserting contemporary stainless steel elements and 1990s design pieces into traditional Haussmannian architecture, positioning this historical-contemporary fusion as an emerging luxury direction."
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "theme_label": "appointment-only private shopping",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 4,
+      "weighted_score": 36.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Selfridges hits Mayfair with a new members-only space",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/40-duke-selfridges-members-space-opens-london",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents the emerging model of luxury retail-meets-private club spaces, with specific named designers and a clear movement toward more intimate shopping experiences."
+        },
+        {
+          "title": "Selfridges hits Mayfair with a new members-only space",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/40-duke-selfridges-members-space-opens-london",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents the emerging model of luxury retail-meets-private club spaces, with specific named designers and a clear movement toward more intimate shopping experiences."
+        },
+        {
+          "title": "Selfridges hits Mayfair with a new members-only space",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/40-duke-selfridges-members-space-opens-london",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents the emerging model of luxury retail-meets-private club spaces, with specific named designers and a clear movement toward more intimate shopping experiences."
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "theme_label": "bunk beds for luxury homes",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 3,
+      "weighted_score": 27.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "How the Bunk Room Turned Stylish",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/a71475972/bunk-bed-room-design-ideas-inspiration/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports bunk rooms evolving from camp novelty to luxury home staple with sophisticated design approaches; clear trend movement."
+        },
+        {
+          "title": "How the Bunk Room Turned Stylish",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/a71475972/bunk-bed-room-design-ideas-inspiration/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports bunk rooms evolving from camp novelty to luxury home staple with sophisticated design approaches; clear trend movement."
+        },
+        {
+          "title": "How the Bunk Room Turned Stylish",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/a71475972/bunk-bed-room-design-ideas-inspiration/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports bunk rooms evolving from camp novelty to luxury home staple with sophisticated design approaches; clear trend movement."
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "theme_label": "global design marketplace",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 3,
+      "weighted_score": 27.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "ArchiPro soft-launches in the US",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/after-a-successful-run-in-australasia-the-new-zealand-based-platform-aims-to-bring-american-designers-builders-product-vendors-and-homeowners-together-in-one-highly-curated-site.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "ArchiPro platform launch represents emerging movement toward comprehensive design professional platforms, with specific growth metrics and global expansion strategy."
+        },
+        {
+          "title": "ArchiPro soft-launches in the US",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/after-a-successful-run-in-australasia-the-new-zealand-based-platform-aims-to-bring-american-designers-builders-product-vendors-and-homeowners-together-in-one-highly-curated-site.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "ArchiPro platform launch represents emerging movement toward comprehensive design professional platforms, with specific growth metrics and global expansion strategy."
+        },
+        {
+          "title": "ArchiPro soft-launches in the US",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/after-a-successful-run-in-australasia-the-new-zealand-based-platform-aims-to-bring-american-designers-builders-product-vendors-and-homeowners-together-in-one-highly-curated-site.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "ArchiPro platform launch represents emerging movement toward comprehensive design professional platforms, with specific growth metrics and global expansion strategy."
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "theme_label": "artisanal lighting approaches",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 3,
+      "weighted_score": 27.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "This lighting designer\u2019s pet peeve? Light Bulbs",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/this-lighting-designer-s-pet-peeve-lightbulbs.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Andrea Claire lighting profile featuring specific Totemic collection with Korean hanji paper and cast glass, representing emerging artisanal lighting approaches and material innovation."
+        },
+        {
+          "title": "This lighting designer\u2019s pet peeve? Light Bulbs",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/this-lighting-designer-s-pet-peeve-lightbulbs.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Andrea Claire lighting profile featuring specific Totemic collection with Korean hanji paper and cast glass, representing emerging artisanal lighting approaches and material innovation."
+        },
+        {
+          "title": "This lighting designer\u2019s pet peeve? Light Bulbs",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/this-lighting-designer-s-pet-peeve-lightbulbs.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Andrea Claire lighting profile featuring specific Totemic collection with Korean hanji paper and cast glass, representing emerging artisanal lighting approaches and material innovation."
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "theme_label": "immersive event spaces",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 3,
+      "weighted_score": 27.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "We Interviewed the Designers Behind Broadway\u2019s Tony-Nominated Musical Sets\u2014Here\u2019s What Inspired Them",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/luxury-lifestyle/a71506953/2026-tony-awards-preview/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Broadway scenic design innovations like Mylar curtains and immersive audience placement suggest crossover influence on luxury interior experiences."
+        },
+        {
+          "title": "We Interviewed the Designers Behind Broadway\u2019s Tony-Nominated Musical Sets\u2014Here\u2019s What Inspired Them",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/luxury-lifestyle/a71506953/2026-tony-awards-preview/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Broadway scenic design innovations like Mylar curtains and immersive audience placement suggest crossover influence on luxury interior experiences."
+        },
+        {
+          "title": "We Interviewed the Designers Behind Broadway\u2019s Tony-Nominated Musical Sets\u2014Here\u2019s What Inspired Them",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/luxury-lifestyle/a71506953/2026-tony-awards-preview/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Broadway scenic design innovations like Mylar curtains and immersive audience placement suggest crossover influence on luxury interior experiences."
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "theme_label": "companion planting",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 3,
+      "weighted_score": 27.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The Natural Way to Keep Pests Out of Your Garden Starts With These Companion Plants",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71483161/companion-plants-pest-control/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents movement toward biodynamic gardening methods with specific plant partnerships; reflects luxury sustainability trend."
+        },
+        {
+          "title": "The Natural Way to Keep Pests Out of Your Garden Starts With These Companion Plants",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71483161/companion-plants-pest-control/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents movement toward biodynamic gardening methods with specific plant partnerships; reflects luxury sustainability trend."
+        },
+        {
+          "title": "The Natural Way to Keep Pests Out of Your Garden Starts With These Companion Plants",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71483161/companion-plants-pest-control/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents movement toward biodynamic gardening methods with specific plant partnerships; reflects luxury sustainability trend."
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "theme_label": "Murano glass collaborations",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 3,
+      "weighted_score": 27.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Murano glass, plaster flowers, mosaic tables: All the hits from New York Design Month so far",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/murano-glass-plaster-flowers-mosaic-tables-all-the-hits-from-new-york-design-month-so-far/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports on multiple American designers working with Murano glassblowers at Laguna-B, plus Danny Kaplan/Kassandra Thatcher's new plaster floral lighting collection, all framed as emerging movements with specific named techniques and collaborators."
+        },
+        {
+          "title": "Murano glass, plaster flowers, mosaic tables: All the hits from New York Design Month so far",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/murano-glass-plaster-flowers-mosaic-tables-all-the-hits-from-new-york-design-month-so-far/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports on multiple American designers working with Murano glassblowers at Laguna-B, plus Danny Kaplan/Kassandra Thatcher's new plaster floral lighting collection, all framed as emerging movements with specific named techniques and collaborators."
+        },
+        {
+          "title": "Murano glass, plaster flowers, mosaic tables: All the hits from New York Design Month so far",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/murano-glass-plaster-flowers-mosaic-tables-all-the-hits-from-new-york-design-month-so-far/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Reports on multiple American designers working with Murano glassblowers at Laguna-B, plus Danny Kaplan/Kassandra Thatcher's new plaster floral lighting collection, all framed as emerging movements with specific named techniques and collaborators."
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "theme_label": "Indonesian postcolonial modernism",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 3,
+      "weighted_score": 27.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "How Jengki became the architecture of Indonesian independence",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/jengki-architecture-indonesia",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Explores emerging recognition of Jengki as distinctive architectural movement, highlighting collaborative design process between owners and local craftsmen."
+        },
+        {
+          "title": "How Jengki became the architecture of Indonesian independence",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/jengki-architecture-indonesia",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Explores emerging recognition of Jengki as distinctive architectural movement, highlighting collaborative design process between owners and local craftsmen."
+        },
+        {
+          "title": "How Jengki became the architecture of Indonesian independence",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/jengki-architecture-indonesia",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Explores emerging recognition of Jengki as distinctive architectural movement, highlighting collaborative design process between owners and local craftsmen."
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "theme_label": "botanical ceramics",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 4,
+      "weighted_score": 25.2,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Our Favorite Floral Ceramics, a New Handmade Hardware Line, and More",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/our-favorite-floral-ceramics-a-new-handmade-hardware-line-and-more/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Celebrates botanical themes in ceramics through Gordon Moore's Paisley lamps and Harvey Bouterse's melted florals, plus new Petra Fundamentals hardware line drawing on ancient forms - all positioned as emerging directions gaining attention."
+        },
+        {
+          "title": "Our Favorite Floral Ceramics, a New Handmade Hardware Line, and More",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/our-favorite-floral-ceramics-a-new-handmade-hardware-line-and-more/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Celebrates botanical themes in ceramics through Gordon Moore's Paisley lamps and Harvey Bouterse's melted florals, plus new Petra Fundamentals hardware line drawing on ancient forms - all positioned as emerging directions gaining attention."
+        },
+        {
+          "title": "Our Favorite Floral Ceramics, a New Handmade Hardware Line, and More",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/our-favorite-floral-ceramics-a-new-handmade-hardware-line-and-more/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Celebrates botanical themes in ceramics through Gordon Moore's Paisley lamps and Harvey Bouterse's melted florals, plus new Petra Fundamentals hardware line drawing on ancient forms - all positioned as emerging directions gaining attention."
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "theme_label": "ornamental stoneware",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 4,
+      "weighted_score": 25.2,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Milan in Review, Part III: Our Top 5 Exhibitions",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/milan-in-review-part-iii-our-top-5-exhibitions/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Highlights Antoine Billore's approach to upcycling antiques with new functions and Natalia Triantafylli/Andrew Pierce Scott's ceramic-steel furniture collaboration, both framed as innovative directions emerging from Milan's design week."
+        },
+        {
+          "title": "Milan in Review, Part III: Our Top 5 Exhibitions",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/milan-in-review-part-iii-our-top-5-exhibitions/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Highlights Antoine Billore's approach to upcycling antiques with new functions and Natalia Triantafylli/Andrew Pierce Scott's ceramic-steel furniture collaboration, both framed as innovative directions emerging from Milan's design week."
+        },
+        {
+          "title": "Milan in Review, Part III: Our Top 5 Exhibitions",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/milan-in-review-part-iii-our-top-5-exhibitions/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Highlights Antoine Billore's approach to upcycling antiques with new functions and Natalia Triantafylli/Andrew Pierce Scott's ceramic-steel furniture collaboration, both framed as innovative directions emerging from Milan's design week."
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "theme_label": "artist studio spaces",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 8,
+      "weighted_score": 21.0,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 0.62,
+      "trend_signal_rate": 0.38,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The World of Interiors: Artistic Impressions",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/gallery/topic/woi-arcade/artistic-impressions",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Multiple references to artist studios and gallery spaces, including specific mention of 'arrested decay' as aesthetic approach at Sarabande."
+        },
+        {
+          "title": "The World of Interiors: Artistic Impressions",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/gallery/topic/woi-arcade/artistic-impressions",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Multiple references to artist studios and gallery spaces, including specific mention of 'arrested decay' as aesthetic approach at Sarabande."
+        },
+        {
+          "title": "The World of Interiors: Artistic Impressions",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/gallery/topic/woi-arcade/artistic-impressions",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Multiple references to artist studios and gallery spaces, including specific mention of 'arrested decay' as aesthetic approach at Sarabande."
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "theme_label": "year-round linen",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "peaking",
+      "lifecycle_agreement": 0.67,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 0.67,
+      "representative_signals": [
+        {
+          "title": "6 Best Linen Sheets of 2026: AD-Approved Sets for Summer",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-linen-sheets-tested",
+          "lifecycle": "peaking",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing linen's peak moment with specific material sources and cottagecore aesthetic, indicating mainstream luxury adoption."
+        },
+        {
+          "title": "6 Best Linen Sheets of 2026: AD-Approved Sets for Summer",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-linen-sheets-tested",
+          "lifecycle": "peaking",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing linen's peak moment with specific material sources and cottagecore aesthetic, indicating mainstream luxury adoption."
+        },
+        {
+          "title": "9 Best Muslin Blankets for Summer Cat Naps (2026)",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-muslin-blankets",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Rising trend of muslin expanding beyond nursery use, but content skews toward accessible rather than luxury positioning."
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "theme_label": "matelass\u00e9 quilts",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "peaking",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "8 Best Quilts and Coverlets, Tested by AD Editors (2026)",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-quilts-and-coverlets-review",
+          "lifecycle": "peaking",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing cottagecore and traditional quilting at peak adoption, with specific techniques and aesthetic direction clearly established."
+        },
+        {
+          "title": "8 Best Quilts and Coverlets, Tested by AD Editors (2026)",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-quilts-and-coverlets-review",
+          "lifecycle": "peaking",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing cottagecore and traditional quilting at peak adoption, with specific techniques and aesthetic direction clearly established."
+        },
+        {
+          "title": "8 Best Quilts and Coverlets, Tested by AD Editors (2026)",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-quilts-and-coverlets-review",
+          "lifecycle": "peaking",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong trend signal showing cottagecore and traditional quilting at peak adoption, with specific techniques and aesthetic direction clearly established."
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "theme_label": "modular seating systems",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "9 Best Couches for Small Spaces, Vetted by AD (2026)",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-couches-for-small-spaces",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Small-space couches gaining traction as luxury design solutions, with named high-end brands offering sophisticated compact options."
+        },
+        {
+          "title": "9 Best Couches for Small Spaces, Vetted by AD (2026)",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-couches-for-small-spaces",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Small-space couches gaining traction as luxury design solutions, with named high-end brands offering sophisticated compact options."
+        },
+        {
+          "title": "9 Best Couches for Small Spaces, Vetted by AD (2026)",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/best-couches-for-small-spaces",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Small-space couches gaining traction as luxury design solutions, with named high-end brands offering sophisticated compact options."
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "theme_label": "nostalgic floriculture",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 2,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "8 Old-Fashioned Flowers That Still Belong in Every Garden, According to Experts",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71498747/best-old-fashioned-flowers/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents renewed appreciation for old-fashioned flowers with specific varieties and expert recognition of movement toward emotional connection and presence."
+        },
+        {
+          "title": "8 Old-Fashioned Flowers That Still Belong in Every Garden, According to Experts",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71498747/best-old-fashioned-flowers/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents renewed appreciation for old-fashioned flowers with specific varieties and expert recognition of movement toward emotional connection and presence."
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "theme_label": "ceramic burlwood effects",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 2,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Ceramic \u201cburlwood,\u201d vintage nightclub chairs, bronze reliefs, and more from Lisbon Design Week",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/06/ceramic-burlwood-vintage-nightclub-chairs-bronze-reliefs-and-more-from-lisbon-design-week/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong coverage of Lisbon Design Week highlighting rising ceramic techniques like burlwood glazing and Portuguese craftsmanship gaining international recognition."
+        },
+        {
+          "title": "Ceramic \u201cburlwood,\u201d vintage nightclub chairs, bronze reliefs, and more from Lisbon Design Week",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/06/ceramic-burlwood-vintage-nightclub-chairs-bronze-reliefs-and-more-from-lisbon-design-week/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong coverage of Lisbon Design Week highlighting rising ceramic techniques like burlwood glazing and Portuguese craftsmanship gaining international recognition."
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "theme_label": "Chinese bamboo weaving ceramic patterns",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 2,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "SPOTLIGHT: Two perfect tile series for transforming your kitchen, bath, patio, or any surface that could use a bit of zhuzh",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/spotlight-two-perfect-tile-series-for-transforming-your-kitchen-bath-patio-or-any-surface-that-could-use-a-bit-of-zhuzh/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Mutina collaborations with Albers Foundation and Neri & Hu represent rising trend of art-historical and cultural craft references in luxury ceramic design."
+        },
+        {
+          "title": "SPOTLIGHT: Two perfect tile series for transforming your kitchen, bath, patio, or any surface that could use a bit of zhuzh",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/spotlight-two-perfect-tile-series-for-transforming-your-kitchen-bath-patio-or-any-surface-that-could-use-a-bit-of-zhuzh/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Mutina collaborations with Albers Foundation and Neri & Hu represent rising trend of art-historical and cultural craft references in luxury ceramic design."
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "theme_label": "ceramic-metal lighting collaborations",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 2,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The Best of New York Design Week, From Nightlights to Fish Tables",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents multiple emerging collaborations including Devin Wilde/Astraeus Clarke ceramics with metal frameworks, Lawson-Fenning's Bosque collection inspired by Kish\u014d Kurokawa's Nagakin Capsule Tower, and various Murano glass techniques, all positioned as new movements gaining traction."
+        },
+        {
+          "title": "The Best of New York Design Week, From Nightlights to Fish Tables",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/the-best-of-new-york-design-week-from-nightlights-to-fish-tables/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Documents multiple emerging collaborations including Devin Wilde/Astraeus Clarke ceramics with metal frameworks, Lawson-Fenning's Bosque collection inspired by Kish\u014d Kurokawa's Nagakin Capsule Tower, and various Murano glass techniques, all positioned as new movements gaining traction."
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "theme_label": "African diaspora design references",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 2,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Solange Knowles and Dozie Kanu Headline the Glass House Summer Party",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/solange-knowles-dozie-kanu-headline-the-glass-house-summer-party/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Features Dozie Kanu's collection for Knoll drawing on African drums and diaspora references at Glass House, positioning cultural storytelling through furniture design as an emerging luxury direction."
+        },
+        {
+          "title": "Solange Knowles and Dozie Kanu Headline the Glass House Summer Party",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/solange-knowles-dozie-kanu-headline-the-glass-house-summer-party/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Features Dozie Kanu's collection for Knoll drawing on African drums and diaspora references at Glass House, positioning cultural storytelling through furniture design as an emerging luxury direction."
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "theme_label": "collaborative design partnerships",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 2,
+      "weighted_score": 18.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Aino Aalto: the unsung genius of Finnish Modernism",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/aino-aalto-finnish-modernism",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Highlights emerging recognition of Aino Aalto's contributions, part of broader movement to acknowledge previously overlooked female designers."
+        },
+        {
+          "title": "Aino Aalto: the unsung genius of Finnish Modernism",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/aino-aalto-finnish-modernism",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Highlights emerging recognition of Aino Aalto's contributions, part of broader movement to acknowledge previously overlooked female designers."
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "theme_label": "botanical wallcoverings",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 3,
+      "weighted_score": 17.0,
+      "lifecycle_dominant": "peaking",
+      "lifecycle_agreement": 0.67,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Kelly Wearstler\u2019s latest Lee Jofa Modern launch, GreenRow\u2019s collab with the New York Botanical Garden, and more",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/kelly-wearstler-s-latest-lee-jofa-modern-launch-greenrow-s-collab-with-the-new-york-botanical-garden-and-more.html",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Weekly product roundup featuring Kelly Wearstler's Tela collection and NY Botanical Garden collaboration, presenting emerging organic and botanical themes across multiple launches."
+        },
+        {
+          "title": "10 fresh floral designs for the final days of spring",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/10-fresh-floral-designs-for-the-final-days-of-spring.html",
+          "lifecycle": "peaking",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Curated collection of floral designs across multiple categories with named sources like Samuel & Sons and Harlequin, framed as seasonal trend coverage with 'fresh' positioning."
+        },
+        {
+          "title": "10 fresh floral designs for the final days of spring",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/10-fresh-floral-designs-for-the-final-days-of-spring.html",
+          "lifecycle": "peaking",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Curated collection of floral designs across multiple categories with named sources like Samuel & Sons and Harlequin, framed as seasonal trend coverage with 'fresh' positioning."
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "theme_label": "rustic-refined material mixing",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "RH Estates Debuts with Classic Designs by the Legendary Michael Taylor",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/rh-estates-debuts-with-a-collection-by-michael-taylor",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong revival signal of Michael Taylor's influential California look through RH Estates launch, positioning classic West Coast design as rising trend with specific named pieces and design philosophy."
+        },
+        {
+          "title": "RH Estates Debuts with Classic Designs by the Legendary Michael Taylor",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/rh-estates-debuts-with-a-collection-by-michael-taylor",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Strong revival signal of Michael Taylor's influential California look through RH Estates launch, positioning classic West Coast design as rising trend with specific named pieces and design philosophy."
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "theme_label": "overstuffed comfort",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 4,
+      "weighted_score": 12.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "13 Best Leather Sofas of 2026: Couches That Are Editor-Approved",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/were-suddenly-feeling-leather-sofas",
+          "lifecycle": "rising",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Rising trend signal showing leather furniture evolution with Y2K aesthetic references and specific construction methods gaining momentum."
+        },
+        {
+          "title": "13 Best Leather Sofas of 2026: Couches That Are Editor-Approved",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/were-suddenly-feeling-leather-sofas",
+          "lifecycle": "rising",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Rising trend signal showing leather furniture evolution with Y2K aesthetic references and specific construction methods gaining momentum."
+        },
+        {
+          "title": "13 Best Leather Sofas of 2026: Couches That Are Editor-Approved",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/were-suddenly-feeling-leather-sofas",
+          "lifecycle": "rising",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Rising trend signal showing leather furniture evolution with Y2K aesthetic references and specific construction methods gaining momentum."
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "theme_label": "pattern mixing mastery",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 4,
+      "weighted_score": 12.0,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Lauren Wodicka\u2019s pattern-drenched m\u00e9lange of painterly floral fabrics, tortoiseshell finishes, and flame-stitched paper",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/lauren-wodicka-s-pattern-drenched-melange-of-painterly-floral-fabrics-tortoiseshell-finishes-and-flame-stitched-paper.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Designer mood board featuring specific named pieces like Meg Braff flame stitch paper and Penny Morrison bone inlay, presenting timeless pattern mixing as enduring approach."
+        },
+        {
+          "title": "Lauren Wodicka\u2019s pattern-drenched m\u00e9lange of painterly floral fabrics, tortoiseshell finishes, and flame-stitched paper",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/lauren-wodicka-s-pattern-drenched-melange-of-painterly-floral-fabrics-tortoiseshell-finishes-and-flame-stitched-paper.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Designer mood board featuring specific named pieces like Meg Braff flame stitch paper and Penny Morrison bone inlay, presenting timeless pattern mixing as enduring approach."
+        },
+        {
+          "title": "Lauren Wodicka\u2019s pattern-drenched m\u00e9lange of painterly floral fabrics, tortoiseshell finishes, and flame-stitched paper",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/lauren-wodicka-s-pattern-drenched-melange-of-painterly-floral-fabrics-tortoiseshell-finishes-and-flame-stitched-paper.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Designer mood board featuring specific named pieces like Meg Braff flame stitch paper and Penny Morrison bone inlay, presenting timeless pattern mixing as enduring approach."
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "theme_label": "curated design retail",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 4,
+      "weighted_score": 12.0,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "How to Shop Nantucket Like a Designer",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/shopping/a64984889/best-places-to-shop-in-nantucket/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Maps luxury shopping ecosystem with specific dealers and Scandinavian design influence; establishes curated retail as cultural marker."
+        },
+        {
+          "title": "How to Shop Nantucket Like a Designer",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/shopping/a64984889/best-places-to-shop-in-nantucket/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Maps luxury shopping ecosystem with specific dealers and Scandinavian design influence; establishes curated retail as cultural marker."
+        },
+        {
+          "title": "How to Shop Nantucket Like a Designer",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/shopping/a64984889/best-places-to-shop-in-nantucket/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Maps luxury shopping ecosystem with specific dealers and Scandinavian design influence; establishes curated retail as cultural marker."
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "theme_label": "interior designer fashion collaborations",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Mark D. Sikes\u2019s New J.McLaughlin Collection Is Summer Style at Its Best",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/luxury-lifestyle/luxury-fashion-jewelry/a71472078/mark-d-sikes-j-mclaughlin-collection/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Mark D. Sikes's J.McLaughlin collaboration signals the rising trend of interior designers crossing into fashion, with his signature red preference translating across mediums."
+        },
+        {
+          "title": "Mark D. Sikes\u2019s New J.McLaughlin Collection Is Summer Style at Its Best",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/luxury-lifestyle/luxury-fashion-jewelry/a71472078/mark-d-sikes-j-mclaughlin-collection/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Mark D. Sikes's J.McLaughlin collaboration signals the rising trend of interior designers crossing into fashion, with his signature red preference translating across mediums."
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "theme_label": "olive pit fired ceramics",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 4,
+      "weighted_score": 11.2,
+      "lifecycle_dominant": "peaking",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Milan in Review, Part II: Jill\u2019s Top Picks",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/milan-in-review-part-ii/",
+          "lifecycle": "peaking",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Reports various Milan highlights including B&B Italia's Luigi Caccia Dominioni reissue and experimental techniques like olive pit firing, suggesting these approaches are at peak attention during the fair."
+        },
+        {
+          "title": "Milan in Review, Part II: Jill\u2019s Top Picks",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/milan-in-review-part-ii/",
+          "lifecycle": "peaking",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Reports various Milan highlights including B&B Italia's Luigi Caccia Dominioni reissue and experimental techniques like olive pit firing, suggesting these approaches are at peak attention during the fair."
+        },
+        {
+          "title": "Milan in Review, Part II: Jill\u2019s Top Picks",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/milan-in-review-part-ii/",
+          "lifecycle": "peaking",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Reports various Milan highlights including B&B Italia's Luigi Caccia Dominioni reissue and experimental techniques like olive pit firing, suggesting these approaches are at peak attention during the fair."
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "theme_label": "digital-age color palettes",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 1,
+      "weighted_score": 9.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Electric Kelly Green\u2014A Shade Befitting Our Digital Age\u2014Is Having a Moment",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/electric-kelly-green-a-shade-befitting-our-digital-age-is-having-a-moment",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Electric kelly green emerging as signature color for luxury interiors, with multiple AD100 designers embracing this digital-era shade."
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "theme_label": "kitchen-centered living",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 3,
+      "weighted_score": 9.0,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Steven Volpe on what \u2018formal\u2019 means today",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/steven-volpe-on-what-formal-means-today.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Steven Volpe interview discussing fundamental shift from formal entertaining homes to multifunctional living, describing established transformation in luxury residential design."
+        },
+        {
+          "title": "Steven Volpe on what \u2018formal\u2019 means today",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/steven-volpe-on-what-formal-means-today.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Steven Volpe interview discussing fundamental shift from formal entertaining homes to multifunctional living, describing established transformation in luxury residential design."
+        },
+        {
+          "title": "Steven Volpe on what \u2018formal\u2019 means today",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/steven-volpe-on-what-formal-means-today.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Steven Volpe interview discussing fundamental shift from formal entertaining homes to multifunctional living, describing established transformation in luxury residential design."
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "theme_label": "garden antique collecting",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 3,
+      "weighted_score": 9.0,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "These Are the 8 Most Valuable Garden Antiques, According to Experts",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71507801/most-valuable-garden-antiques/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Establishes valuable garden antique categories with specific makers and price points; positions outdoor collecting as equivalent to fine art."
+        },
+        {
+          "title": "These Are the 8 Most Valuable Garden Antiques, According to Experts",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71507801/most-valuable-garden-antiques/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Establishes valuable garden antique categories with specific makers and price points; positions outdoor collecting as equivalent to fine art."
+        },
+        {
+          "title": "These Are the 8 Most Valuable Garden Antiques, According to Experts",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71507801/most-valuable-garden-antiques/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Establishes valuable garden antique categories with specific makers and price points; positions outdoor collecting as equivalent to fine art."
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "theme_label": "family heirloom integration",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 3,
+      "weighted_score": 9.0,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Designer Heather Chadduck Hillegas Gives New Life to One of Colonial Williamsburg\u2019s Oldest Homes",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/decorating-ideas/house-tours/a71461987/heather-chadduck-hillegas-colonial-williamsburg-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Colonial Williamsburg residency showcases historic preservation approach with specific collections and family pieces; demonstrates heritage luxury trend."
+        },
+        {
+          "title": "Designer Heather Chadduck Hillegas Gives New Life to One of Colonial Williamsburg\u2019s Oldest Homes",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/decorating-ideas/house-tours/a71461987/heather-chadduck-hillegas-colonial-williamsburg-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Colonial Williamsburg residency showcases historic preservation approach with specific collections and family pieces; demonstrates heritage luxury trend."
+        },
+        {
+          "title": "Designer Heather Chadduck Hillegas Gives New Life to One of Colonial Williamsburg\u2019s Oldest Homes",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/decorating-ideas/house-tours/a71461987/heather-chadduck-hillegas-colonial-williamsburg-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Colonial Williamsburg residency showcases historic preservation approach with specific collections and family pieces; demonstrates heritage luxury trend."
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "theme_label": "bedroom libraries",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 1,
+      "weighted_score": 9.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "We Want to Steal These 7 Trends From WOW!house for Our Own Homes ASAP",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/home-decorators/design-trends/a71485962/wowhouse-2026-design-trends/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Comprehensive trend report from WOW!house showcasing multiple rising movements like verdigris replacing brass and animalia furniture gaining momentum."
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "theme_label": "metallic ceramic glazes",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 1,
+      "weighted_score": 9.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "A new status hand soap, the best bits from Melbourne Design Week, and more",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/05/a-new-status-hand-soap-the-best-bits-from-melbourne-design-week-and-more/",
+          "lifecycle": "rising",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Melbourne Design Week coverage identifies rising Australian design influence and Ben Mazey's metallic glazing techniques gaining prominence through Milanese foundry collaboration."
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "theme_label": "fashion house design activations",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Sight Unseen"
+      ],
+      "signal_count": 2,
+      "weighted_score": 8.4,
+      "lifecycle_dominant": "peaking",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Milan in Review, Pt I: Salone\u2019s big hype problem, plus Monica\u2019s top picks",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/04/milan-in-review-pt-i-salones-big-hype-problem-plus-monicas-top-picks/",
+          "lifecycle": "peaking",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Critiques the peak commercialization of Salone through fashion house activations while highlighting discovery of Portaluppi's bomb shelter, positioning both as representative of where Milan design week currently stands."
+        },
+        {
+          "title": "Milan in Review, Pt I: Salone\u2019s big hype problem, plus Monica\u2019s top picks",
+          "source_name": "Sight Unseen",
+          "source_url": "https://www.sightunseen.com/2026/04/milan-in-review-pt-i-salones-big-hype-problem-plus-monicas-top-picks/",
+          "lifecycle": "peaking",
+          "signal_strength": "strong",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Critiques the peak commercialization of Salone through fashion house activations while highlighting discovery of Portaluppi's bomb shelter, positioning both as representative of where Milan design week currently stands."
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "theme_label": "jewelry-inspired design",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Frederic"
+      ],
+      "signal_count": 2,
+      "weighted_score": 8.4,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "These Sculptural Accessories Are Jewelry for Your Hair",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/04/sculptural-hair-accessories/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Coverage frames sculptural accessories as emerging category, treating hair jewelry as a rising design movement."
+        },
+        {
+          "title": "These Sculptural Accessories Are Jewelry for Your Hair",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/04/sculptural-hair-accessories/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Coverage frames sculptural accessories as emerging category, treating hair jewelry as a rising design movement."
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "theme_label": "sculptural hearth design",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Frederic"
+      ],
+      "signal_count": 2,
+      "weighted_score": 8.4,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "These Dramatic Plaster Fireplaces Are Hearths With Soul",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/04/in-the-air-sculptural-plaster-fireplaces/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Frames plaster fireplaces as having 'soul' and dramatic presence, suggesting this is an emerging or returning trend in luxury interiors."
+        },
+        {
+          "title": "These Dramatic Plaster Fireplaces Are Hearths With Soul",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/04/in-the-air-sculptural-plaster-fireplaces/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Frames plaster fireplaces as having 'soul' and dramatic presence, suggesting this is an emerging or returning trend in luxury interiors."
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "theme_label": "designer efficiency protocols",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 2,
+      "weighted_score": 6.0,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "What\u2019s the secret to less stress on install day?",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/what-s-the-secret-to-less-stress-on-install-day.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Multiple designers sharing systematic approaches to installation management, revealing established professional practices and operational sophistication in luxury design."
+        },
+        {
+          "title": "What\u2019s the secret to less stress on install day?",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/what-s-the-secret-to-less-stress-on-install-day.html",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Multiple designers sharing systematic approaches to installation management, revealing established professional practices and operational sophistication in luxury design."
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "theme_label": "understated luxury moments",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 2,
+      "weighted_score": 6.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "6 'Fancy' Interior Details Designers Say Aren't Worth the Money",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/decorating-ideas/advice-from-designers/g71508761/fancy-interior-details-not-worth-the-money-designers-tips/",
+          "lifecycle": "rising",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Identifies emerging movement toward selective luxury spending with specific examples of what's worth it vs. overpriced; clear field-level guidance."
+        },
+        {
+          "title": "6 'Fancy' Interior Details Designers Say Aren't Worth the Money",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/decorating-ideas/advice-from-designers/g71508761/fancy-interior-details-not-worth-the-money-designers-tips/",
+          "lifecycle": "rising",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Identifies emerging movement toward selective luxury spending with specific examples of what's worth it vs. overpriced; clear field-level guidance."
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "theme_label": "royal residences as public spaces",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 3,
+      "weighted_score": 5.4,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "You Can Now See Inside Queen Elizabeth\u2019s Once-Private Rooms in Her Scottish Palace",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/a71432057/queen-elizabeth-rooms-holyroodhouse/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single property coverage of Queen Elizabeth's private apartments opening, featuring named historical elements like Jacob Wauters tapestries and Young Trotter Hamilton furniture, but lacks movement framing."
+        },
+        {
+          "title": "You Can Now See Inside Queen Elizabeth\u2019s Once-Private Rooms in Her Scottish Palace",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/a71432057/queen-elizabeth-rooms-holyroodhouse/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single property coverage of Queen Elizabeth's private apartments opening, featuring named historical elements like Jacob Wauters tapestries and Young Trotter Hamilton furniture, but lacks movement framing."
+        },
+        {
+          "title": "You Can Now See Inside Queen Elizabeth\u2019s Once-Private Rooms in Her Scottish Palace",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/a71432057/queen-elizabeth-rooms-holyroodhouse/",
+          "lifecycle": "rising",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single property coverage of Queen Elizabeth's private apartments opening, featuring named historical elements like Jacob Wauters tapestries and Young Trotter Hamilton furniture, but lacks movement framing."
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "theme_label": "Tibetan knot rugs",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 1,
+      "weighted_score": 4.0,
+      "lifecycle_dominant": "peaking",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "10 fresh floral designs for the final days of spring",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/10-fresh-floral-designs-for-the-final-days-of-spring.html",
+          "lifecycle": "peaking",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Curated collection of floral designs across multiple categories with named sources like Samuel & Sons and Harlequin, framed as seasonal trend coverage with 'fresh' positioning."
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "theme_label": "M+ contemporary art museum",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 4,
+      "weighted_score": 3.6,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The Design Fiend\u2019s Guide to Hong Kong",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71518140/hong-kong-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Hong Kong design travel guide focusing on established cultural venues and collecting scene; informational content."
+        },
+        {
+          "title": "The Design Fiend\u2019s Guide to Hong Kong",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71518140/hong-kong-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Hong Kong design travel guide focusing on established cultural venues and collecting scene; informational content."
+        },
+        {
+          "title": "The Design Fiend\u2019s Guide to Hong Kong",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71518140/hong-kong-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Hong Kong design travel guide focusing on established cultural venues and collecting scene; informational content."
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "theme_label": "Twombly-inspired interiors",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 4,
+      "weighted_score": 3.6,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Daniel Rueda\u2019s spare palazzo in Rome is a riot of artistic conversation",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/daniel-rueda-palazzo-rome",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of a highly cultivated personal aesthetic that draws on art historical references, but framed as individual taste rather than broader movement."
+        },
+        {
+          "title": "Daniel Rueda\u2019s spare palazzo in Rome is a riot of artistic conversation",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/daniel-rueda-palazzo-rome",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of a highly cultivated personal aesthetic that draws on art historical references, but framed as individual taste rather than broader movement."
+        },
+        {
+          "title": "Daniel Rueda\u2019s spare palazzo in Rome is a riot of artistic conversation",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/daniel-rueda-palazzo-rome",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of a highly cultivated personal aesthetic that draws on art historical references, but framed as individual taste rather than broader movement."
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "theme_label": "grounding neutral tones",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 1,
+      "weighted_score": 3.0,
+      "lifecycle_dominant": "rising",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "7 Paint Colors Designers Say Will Be Everywhere This Summer",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/home-decorators/a71426120/summer-paint-color-trends-2026/",
+          "lifecycle": "rising",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Paint color trend piece identifying the rising movement toward nature-based, grounding tones over traditional bright summer colors."
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "theme_label": "Salone del Mobile coverage",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Frederic"
+      ],
+      "signal_count": 2,
+      "weighted_score": 2.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 1.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "FREDERIC Editor Hudson Moore\u2019s Favorite Moments From Salone del Mobile 2026",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/04/best-of-salone-del-mobile-2026/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Editor's perspective on Milan furniture fair suggests trend reporting format, though specific trends are obscured by text corruption."
+        },
+        {
+          "title": "FREDERIC Editor Hudson Moore\u2019s Favorite Moments From Salone del Mobile 2026",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/04/best-of-salone-del-mobile-2026/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Editor's perspective on Milan furniture fair suggests trend reporting format, though specific trends are obscured by text corruption."
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "theme_label": "French vintage collecting",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 3,
+      "weighted_score": 2.7,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Inside an Amagansett Beach House from the Row\u2019s Go-To Designer",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71471179/michael-bargo-amagansett-beach-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of luxury designer Michael Bargo showcasing his approach to mixing French vintage pieces in high-end Hamptons properties."
+        },
+        {
+          "title": "Inside an Amagansett Beach House from the Row\u2019s Go-To Designer",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71471179/michael-bargo-amagansett-beach-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of luxury designer Michael Bargo showcasing his approach to mixing French vintage pieces in high-end Hamptons properties."
+        },
+        {
+          "title": "Inside an Amagansett Beach House from the Row\u2019s Go-To Designer",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71471179/michael-bargo-amagansett-beach-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of luxury designer Michael Bargo showcasing his approach to mixing French vintage pieces in high-end Hamptons properties."
+        }
+      ],
+      "rank": 50
+    },
+    {
+      "theme_label": "V&A museum expansions",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 3,
+      "weighted_score": 2.7,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The Design Fiend\u2019s Guide to London",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71501347/london-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "London design guide covering established cultural institutions and architectural landmarks; travel reference material."
+        },
+        {
+          "title": "The Design Fiend\u2019s Guide to London",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71501347/london-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "London design guide covering established cultural institutions and architectural landmarks; travel reference material."
+        },
+        {
+          "title": "The Design Fiend\u2019s Guide to London",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71501347/london-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "London design guide covering established cultural institutions and architectural landmarks; travel reference material."
+        }
+      ],
+      "rank": 51
+    },
+    {
+      "theme_label": "art-integrated interiors",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 4,
+      "weighted_score": 2.4,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "This Palm Springs Escape Mixes \u201960s Architecture with Contemporary Art",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71508334/palm-springs-desert-midcentury-modern-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single Palm Springs home project by Damon Liss with custom elements; project showcase rather than broader trend discussion."
+        },
+        {
+          "title": "This Palm Springs Escape Mixes \u201960s Architecture with Contemporary Art",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71508334/palm-springs-desert-midcentury-modern-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single Palm Springs home project by Damon Liss with custom elements; project showcase rather than broader trend discussion."
+        },
+        {
+          "title": "This Palm Springs Escape Mixes \u201960s Architecture with Contemporary Art",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71508334/palm-springs-desert-midcentury-modern-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single Palm Springs home project by Damon Liss with custom elements; project showcase rather than broader trend discussion."
+        }
+      ],
+      "rank": 52
+    },
+    {
+      "theme_label": "landscape maintenance awareness",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 4,
+      "weighted_score": 2.4,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "10 Plants and Flowers You Should Never Put Near Your Front Door, According to Gardening Experts",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71499403/plants-to-avoid-near-front-door-expert-tips/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Practical guidance on plant selection without trend framing; more educational than directional signal."
+        },
+        {
+          "title": "10 Plants and Flowers You Should Never Put Near Your Front Door, According to Gardening Experts",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71499403/plants-to-avoid-near-front-door-expert-tips/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Practical guidance on plant selection without trend framing; more educational than directional signal."
+        },
+        {
+          "title": "How to Keep Your Rosemary Thriving All Season, According to a Gardening Expert",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/outdoor-garden/a71494846/rosemary-plant-guide-care-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Practical gardening guidance without movement framing; educational rather than trend-signaling content."
+        }
+      ],
+      "rank": 53
+    },
+    {
+      "theme_label": "AD100 designer collaboration",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Architectural Digest"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Jonathan Groff Wanted a Sofa He Could Canoodle on in His Manhattan Apartment",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/jonathan-groff-greenwich-village-apartment",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single client project by AD100 designer Leyden Lewis featuring high-end vintage pieces and bespoke interior narrative."
+        },
+        {
+          "title": "Jonathan Groff Wanted a Sofa He Could Canoodle on in His Manhattan Apartment",
+          "source_name": "Architectural Digest",
+          "source_url": "https://www.architecturaldigest.com/story/jonathan-groff-greenwich-village-apartment",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single client project by AD100 designer Leyden Lewis featuring high-end vintage pieces and bespoke interior narrative."
+        }
+      ],
+      "rank": 54
+    },
+    {
+      "theme_label": "historic palazzo settings",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The Story Behind the Sicilian Palace Where Dua Lipa Held Her $1.7 Million Wedding",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/a71525408/dua-lipa-sicily-wedding-venue-history/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "High-profile luxury wedding at historic Villa Valguarnera showcasing baroque architecture as premium event venue."
+        },
+        {
+          "title": "The Story Behind the Sicilian Palace Where Dua Lipa Held Her $1.7 Million Wedding",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/a71525408/dua-lipa-sicily-wedding-venue-history/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "High-profile luxury wedding at historic Villa Valguarnera showcasing baroque architecture as premium event venue."
+        }
+      ],
+      "rank": 55
+    },
+    {
+      "theme_label": "Vienna design tourism",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The Design Fiend\u2019s Guide to Vienna",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71518320/vienna-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Design travel guide highlighting Vienna's cultural institutions and architectural landmarks; informational rather than trend-focused."
+        },
+        {
+          "title": "The Design Fiend\u2019s Guide to Vienna",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/travel/a71518320/vienna-design-travel-guide/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Design travel guide highlighting Vienna's cultural institutions and architectural landmarks; informational rather than trend-focused."
+        }
+      ],
+      "rank": 56
+    },
+    {
+      "theme_label": "mechanical timepiece craftsmanship",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 3,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "7 Unique Watches to Gift This Father\u2019s Day",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/unique-watches-to-gift-this-fathers-day/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Father's Day watch gift guide featuring high-end timepieces, but focused on product recommendations rather than identifying design movement trends."
+        },
+        {
+          "title": "7 Unique Watches to Gift This Father\u2019s Day",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/unique-watches-to-gift-this-fathers-day/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Father's Day watch gift guide featuring high-end timepieces, but focused on product recommendations rather than identifying design movement trends."
+        },
+        {
+          "title": "7 Unique Watches to Gift This Father\u2019s Day",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/unique-watches-to-gift-this-fathers-day/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Father's Day watch gift guide featuring high-end timepieces, but focused on product recommendations rather than identifying design movement trends."
+        }
+      ],
+      "rank": 57
+    },
+    {
+      "theme_label": "Italian postmodern revival",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 3,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Shop Gaetano Pesce\u2019s Special Edition Resin Sculptures",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/shop-gaetano-pesce-special-edition-resin-sculptures/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Product launch coverage of Pesce limited edition sculptures, no trend movement indicated beyond commemorating the late designer's work."
+        },
+        {
+          "title": "Shop Gaetano Pesce\u2019s Special Edition Resin Sculptures",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/shop-gaetano-pesce-special-edition-resin-sculptures/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Product launch coverage of Pesce limited edition sculptures, no trend movement indicated beyond commemorating the late designer's work."
+        },
+        {
+          "title": "Shop Gaetano Pesce\u2019s Special Edition Resin Sculptures",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/shop-gaetano-pesce-special-edition-resin-sculptures/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Product launch coverage of Pesce limited edition sculptures, no trend movement indicated beyond commemorating the late designer's work."
+        }
+      ],
+      "rank": 58
+    },
+    {
+      "theme_label": "showhouse design",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Go Inside the 2026 WOW!house in London",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/inside-the-2026-wowhouse-in-london/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Coverage of WOW!house showhouse featuring multiple designers, but focused on event documentation rather than broader design movements."
+        },
+        {
+          "title": "Go Inside the 2026 WOW!house in London",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/inside-the-2026-wowhouse-in-london/",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Coverage of WOW!house showhouse featuring multiple designers, but focused on event documentation rather than broader design movements."
+        }
+      ],
+      "rank": 59
+    },
+    {
+      "theme_label": "Slovenian folk art",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 3,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Centuries-old painted beehives  in Slovenia depict the religious \u2013 and the rude",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/painted-beehive-panels-slovenia",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Cultural documentation of traditional Slovenian painted beehives, not presenting as design trend but as established folk art tradition."
+        },
+        {
+          "title": "Centuries-old painted beehives  in Slovenia depict the religious \u2013 and the rude",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/painted-beehive-panels-slovenia",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Cultural documentation of traditional Slovenian painted beehives, not presenting as design trend but as established folk art tradition."
+        },
+        {
+          "title": "Centuries-old painted beehives  in Slovenia depict the religious \u2013 and the rude",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/painted-beehive-panels-slovenia",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Cultural documentation of traditional Slovenian painted beehives, not presenting as design trend but as established folk art tradition."
+        }
+      ],
+      "rank": 60
+    },
+    {
+      "theme_label": "sculptural architecture",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Casa Batll\u00f3 in Barcelona ranks among Antoni Gaud\u00ed\u2019s boldest work",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/casa-batllo-barcelona-archive",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Historical profile of Gaud\u00ed's work at Casa Batll\u00f3, describing established architectural masterpiece rather than emerging design direction."
+        },
+        {
+          "title": "Casa Batll\u00f3 in Barcelona ranks among Antoni Gaud\u00ed\u2019s boldest work",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/casa-batllo-barcelona-archive",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Historical profile of Gaud\u00ed's work at Casa Batll\u00f3, describing established architectural masterpiece rather than emerging design direction."
+        }
+      ],
+      "rank": 61
+    },
+    {
+      "theme_label": "horticultural collaboration",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Stroll around Dries van Noten\u2019s magical garden",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/dries-van-noten-patrick-vangheluwe-ringenhof-garden",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Feature on Dries van Noten's garden at Ringenhof, documenting established estate gardening rather than emerging design movement."
+        },
+        {
+          "title": "Stroll around Dries van Noten\u2019s magical garden",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/dries-van-noten-patrick-vangheluwe-ringenhof-garden",
+          "lifecycle": "stable",
+          "signal_strength": "strong",
+          "freshness": "current_cycle",
+          "tag_rationale": "Feature on Dries van Noten's garden at Ringenhof, documenting established estate gardening rather than emerging design movement."
+        }
+      ],
+      "rank": 62
+    },
+    {
+      "theme_label": "Colefax & Fowler influence",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 3,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Tish Weinstock and Tom Guinness\u2019s Wiltshire home",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/tish-weinstock-tom-guinness-wiltshire-house",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single home profile showing traditional English country house decoration with maximalist approach, not framed as broader movement."
+        },
+        {
+          "title": "Tish Weinstock and Tom Guinness\u2019s Wiltshire home",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/tish-weinstock-tom-guinness-wiltshire-house",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single home profile showing traditional English country house decoration with maximalist approach, not framed as broader movement."
+        },
+        {
+          "title": "Tish Weinstock and Tom Guinness\u2019s Wiltshire home",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/tish-weinstock-tom-guinness-wiltshire-house",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single home profile showing traditional English country house decoration with maximalist approach, not framed as broader movement."
+        }
+      ],
+      "rank": 63
+    },
+    {
+      "theme_label": "Art Deco revival interest",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 3,
+      "weighted_score": 1.8,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The Art Deco designer that spawned a decorative movement",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/the-birth-of-art-deco-book-review",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Book review covering historical Art Deco design, presented as scholarly material rather than contemporary trend reporting."
+        },
+        {
+          "title": "The Art Deco designer that spawned a decorative movement",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/the-birth-of-art-deco-book-review",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Book review covering historical Art Deco design, presented as scholarly material rather than contemporary trend reporting."
+        },
+        {
+          "title": "The Art Deco designer that spawned a decorative movement",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/the-birth-of-art-deco-book-review",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Book review covering historical Art Deco design, presented as scholarly material rather than contemporary trend reporting."
+        }
+      ],
+      "rank": 64
+    },
+    {
+      "theme_label": "Mediterranean styling",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Designer Michael S. Smith Brings a Palazzo to Palm Springs",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71472214/michael-s-smith-palm-springs-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Established luxury designers discussing California decorating traditions and Palm Springs luxury residential design."
+        },
+        {
+          "title": "Designer Michael S. Smith Brings a Palazzo to Palm Springs",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71472214/michael-s-smith-palm-springs-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Established luxury designers discussing California decorating traditions and Palm Springs luxury residential design."
+        }
+      ],
+      "rank": 65
+    },
+    {
+      "theme_label": "smoked oak kitchen cabinetry",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "This Hamptons Cottage Is Infused with Fire Island Spirit",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71484961/hamptons-cottage-blue-green-works-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single Hamptons cottage project by Peter B. Staples mixing regional aesthetics; project profile rather than trend analysis."
+        },
+        {
+          "title": "This Hamptons Cottage Is Infused with Fire Island Spirit",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/design-decorate/house-interiors/a71484961/hamptons-cottage-blue-green-works-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single Hamptons cottage project by Peter B. Staples mixing regional aesthetics; project profile rather than trend analysis."
+        }
+      ],
+      "rank": 66
+    },
+    {
+      "theme_label": "celebrity estate auctions",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Diane Keaton\u2019s Auction Features an Enviable Home Decor Collection",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/a71483464/diane-keaton-bonhams-auction-home-design-items/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Coverage of Diane Keaton's estate auction highlighting her design sensibility; auction news rather than trend reporting."
+        },
+        {
+          "title": "Diane Keaton\u2019s Auction Features an Enviable Home Decor Collection",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/life-culture/a71483464/diane-keaton-bonhams-auction-home-design-items/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Coverage of Diane Keaton's estate auction highlighting her design sensibility; auction news rather than trend reporting."
+        }
+      ],
+      "rank": 67
+    },
+    {
+      "theme_label": "midcentury modernist preservation",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "A Stream Runs Through This Rare Richard Neutra House\u2014And It\u2019s Now for Sale",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/luxury-real-estate/a71472621/richard-neutra-hendershot-house-los-angeles/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Detailed coverage of specific Neutra house restoration with named architects and AIA award, but focused on single property rather than broader movement."
+        },
+        {
+          "title": "A Stream Runs Through This Rare Richard Neutra House\u2014And It\u2019s Now for Sale",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/luxury-real-estate/a71472621/richard-neutra-hendershot-house-los-angeles/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Detailed coverage of specific Neutra house restoration with named architects and AIA award, but focused on single property rather than broader movement."
+        }
+      ],
+      "rank": 68
+    },
+    {
+      "theme_label": "Hollywood Hills modernist estates",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Chris Evans Relists the Hollywood Hills Home Where He Trained for <em>Captain America</em>",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/celebrity-homes/a71471743/chris-evans-hollywood-hills-home/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Chris Evans home sale coverage with specific details about Stewart-Gulrajani interiors and luxury features, but single property focus without trend implications."
+        },
+        {
+          "title": "Chris Evans Relists the Hollywood Hills Home Where He Trained for <em>Captain America</em>",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/celebrity-homes/a71471743/chris-evans-hollywood-hills-home/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Chris Evans home sale coverage with specific details about Stewart-Gulrajani interiors and luxury features, but single property focus without trend implications."
+        }
+      ],
+      "rank": 69
+    },
+    {
+      "theme_label": "Japanese handcrafted ceramics",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "An Insider\u2019s Guide to Copenhagen by Architect David Thulstrup",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/an-insiders-guide-to-copenhagen-by-architect-david-thulstrup/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of Copenhagen design scene and architect David Thulstrup's recommendations, includes Japanese ceramics mention but reads more as travel guide than trend signal."
+        },
+        {
+          "title": "An Insider\u2019s Guide to Copenhagen by Architect David Thulstrup",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/an-insiders-guide-to-copenhagen-by-architect-david-thulstrup/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Profile of Copenhagen design scene and architect David Thulstrup's recommendations, includes Japanese ceramics mention but reads more as travel guide than trend signal."
+        }
+      ],
+      "rank": 70
+    },
+    {
+      "theme_label": "Faberg\u00e9 imperial provenance",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Stream Family Faberg\u00e9 Highlights Christie\u2019s Luxury Auctions",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/stream-family-faberge-highlights-christies-luxury-week-jewelry-faberge/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Auction preview focusing on historical Faberg\u00e9 pieces and provenance, represents established luxury collecting rather than emerging design trends."
+        },
+        {
+          "title": "Stream Family Faberg\u00e9 Highlights Christie\u2019s Luxury Auctions",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/stream-family-faberge-highlights-christies-luxury-week-jewelry-faberge/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Auction preview focusing on historical Faberg\u00e9 pieces and provenance, represents established luxury collecting rather than emerging design trends."
+        }
+      ],
+      "rank": 71
+    },
+    {
+      "theme_label": "landscape restoration",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Galerie"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "An Oasis Restored: The Southampton Arts Center Unveils the Paulson Family Gardens",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/the-southampton-arts-center-unveils-the-paulson-family-gardens/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single-project coverage of Southampton Arts Center gardens restoration with accessibility features, no broader movement framing."
+        },
+        {
+          "title": "An Oasis Restored: The Southampton Arts Center Unveils the Paulson Family Gardens",
+          "source_name": "Galerie",
+          "source_url": "https://galeriemagazine.com/the-southampton-arts-center-unveils-the-paulson-family-gardens/",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single-project coverage of Southampton Arts Center gardens restoration with accessibility features, no broader movement framing."
+        }
+      ],
+      "rank": 72
+    },
+    {
+      "theme_label": "specialist book collecting",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "WoI Directories: Rare Bookshops in the UK",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/woi-directories-best-rare-bookshops",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Directory of specialist bookshops with curated collections, documenting established cultural institutions rather than emerging trends."
+        },
+        {
+          "title": "WoI Directories: Rare Bookshops in the UK",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/woi-directories-best-rare-bookshops",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Directory of specialist bookshops with curated collections, documenting established cultural institutions rather than emerging trends."
+        }
+      ],
+      "rank": 73
+    },
+    {
+      "theme_label": "devotional art influences",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 2,
+      "weighted_score": 1.2,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Marbled verso paintings were the Renaissance version of abstract art",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/marble-versos-religious-renaissance-art",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Art historical analysis of medieval painting techniques, presented as cultural knowledge rather than contemporary design trend."
+        },
+        {
+          "title": "Marbled verso paintings were the Renaissance version of abstract art",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/marble-versos-religious-renaissance-art",
+          "lifecycle": "stable",
+          "signal_strength": "moderate",
+          "freshness": "current_cycle",
+          "tag_rationale": "Art historical analysis of medieval painting techniques, presented as cultural knowledge rather than contemporary design trend."
+        }
+      ],
+      "rank": 74
+    },
+    {
+      "theme_label": "celebrity estate architecture",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 3,
+      "weighted_score": 0.9,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Dr. Seuss\u2019s La Jolla Estate Just Sold for $9 Million",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/luxury-real-estate/a71525692/dr-seuss-la-jolla-house-sold/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single property coverage focused on Dr. Seuss's estate sale; no broader design movements discussed."
+        },
+        {
+          "title": "Dr. Seuss\u2019s La Jolla Estate Just Sold for $9 Million",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/luxury-real-estate/a71525692/dr-seuss-la-jolla-house-sold/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single property coverage focused on Dr. Seuss's estate sale; no broader design movements discussed."
+        },
+        {
+          "title": "Dr. Seuss\u2019s La Jolla Estate Just Sold for $9 Million",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/luxury-real-estate/a71525692/dr-seuss-la-jolla-house-sold/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Single property coverage focused on Dr. Seuss's estate sale; no broader design movements discussed."
+        }
+      ],
+      "rank": 75
+    },
+    {
+      "theme_label": "art patronage programs",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 0.6,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Chanel Hosts Its 19th Annual Artists Dinner, Spotlighting a New Cohort of Creatives",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/a71535424/chanel-tribeca-festival-artists-dinner-2026/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Annual luxury brand art program continues established tradition of supporting emerging artists."
+        },
+        {
+          "title": "Chanel Hosts Its 19th Annual Artists Dinner, Spotlighting a New Cohort of Creatives",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/a71535424/chanel-tribeca-festival-artists-dinner-2026/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Annual luxury brand art program continues established tradition of supporting emerging artists."
+        }
+      ],
+      "rank": 76
+    },
+    {
+      "theme_label": "historic Anglican church architecture",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Elle Decor"
+      ],
+      "signal_count": 2,
+      "weighted_score": 0.6,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Inside the Cotswolds Church Where Peter Phillips and Harriet Sperling Just Got Married",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/a71524485/peter-phillips-harriet-sperling-wedding-location/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Royal wedding coverage highlighting specific historic properties; lifestyle content rather than design trend reporting."
+        },
+        {
+          "title": "Inside the Cotswolds Church Where Peter Phillips and Harriet Sperling Just Got Married",
+          "source_name": "Elle Decor",
+          "source_url": "https://www.elledecor.com/celebrity-style/a71524485/peter-phillips-harriet-sperling-wedding-location/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Royal wedding coverage highlighting specific historic properties; lifestyle content rather than design trend reporting."
+        }
+      ],
+      "rank": 77
+    },
+    {
+      "theme_label": "married design partnership",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Business of Home"
+      ],
+      "signal_count": 2,
+      "weighted_score": 0.6,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "These couples run a design firm together. What can they teach us about partnership?",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/these-couples-run-a-design-firm-together-what-can-they-teach-us-about-partnership.html",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Explores business model trends in design partnerships but lacks detail or movement framing; single article coverage."
+        },
+        {
+          "title": "These couples run a design firm together. What can they teach us about partnership?",
+          "source_name": "Business of Home",
+          "source_url": "https://businessofhome.com/articles/these-couples-run-a-design-firm-together-what-can-they-teach-us-about-partnership.html",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Explores business model trends in design partnerships but lacks detail or movement framing; single article coverage."
+        }
+      ],
+      "rank": 78
+    },
+    {
+      "theme_label": "curb appeal enhancement",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Veranda"
+      ],
+      "signal_count": 2,
+      "weighted_score": 0.6,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "The 11 Porch Paint Colors That Boost Curb Appeal and Make Your Home Look More Expensive, According to Designers",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/home-decorators/design-trends/a71487256/porch-paint-colors-that-boost-curb-appeal-and-make-your-home-look-expensive/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Basic color guidance without specific movement or trend framing; general advice rather than directional signal."
+        },
+        {
+          "title": "The 11 Porch Paint Colors That Boost Curb Appeal and Make Your Home Look More Expensive, According to Designers",
+          "source_name": "Veranda",
+          "source_url": "https://www.veranda.com/home-decorators/design-trends/a71487256/porch-paint-colors-that-boost-curb-appeal-and-make-your-home-look-expensive/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Basic color guidance without specific movement or trend framing; general advice rather than directional signal."
+        }
+      ],
+      "rank": 79
+    },
+    {
+      "theme_label": "plant-filled interiors",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "The World of Interiors"
+      ],
+      "signal_count": 2,
+      "weighted_score": 0.6,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Emily Tobin on the power of plants \u2013 and the pain of moving house",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/editors-letter-july-2026-issue",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Editor's letter mentions plants and gardens as content theme, with personal property market narrative, not signaling design movements."
+        },
+        {
+          "title": "Emily Tobin on the power of plants \u2013 and the pain of moving house",
+          "source_name": "The World of Interiors",
+          "source_url": "https://www.worldofinteriors.com/story/editors-letter-july-2026-issue",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "current_cycle",
+          "tag_rationale": "Editor's letter mentions plants and gardens as content theme, with personal property market narrative, not signaling design movements."
+        }
+      ],
+      "rank": 80
+    },
+    {
+      "theme_label": "pattern integration",
+      "tier": "single_source",
+      "source_count": 1,
+      "sources": [
+        "Frederic"
+      ],
+      "signal_count": 2,
+      "weighted_score": 0.4,
+      "lifecycle_dominant": "stable",
+      "lifecycle_agreement": 1.0,
+      "trend_signal_rate": 0.0,
+      "luxury_integrity": 1.0,
+      "representative_signals": [
+        {
+          "title": "Tour a Historic Connecticut Farmhouse That Nurtures Nature With Palette and Pattern",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/05/alison-hammatt-connecticut-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Single project coverage of Connecticut farmhouse with nature-inspired design approach, some text corruption but discernible luxury residential focus."
+        },
+        {
+          "title": "Tour a Historic Connecticut Farmhouse That Nurtures Nature With Palette and Pattern",
+          "source_name": "Frederic",
+          "source_url": "https://fredericmagazine.com/2026/05/alison-hammatt-connecticut-house-tour/",
+          "lifecycle": "stable",
+          "signal_strength": "weak",
+          "freshness": "edge_of_window",
+          "tag_rationale": "Single project coverage of Connecticut farmhouse with nature-inspired design approach, some text corruption but discernible luxury residential focus."
+        }
+      ],
+      "rank": 81
+    }
+  ]
+}
