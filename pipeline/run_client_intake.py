@@ -69,15 +69,27 @@ def main():
         print(f"No blueprints in {INTAKE_DIR}; nothing to do.")
         return
 
+    # Research upcoming holidays once (client-agnostic); the editorial engine then
+    # judges which ones each client should speak on.
+    holidays_path = None
+    try:
+        from holiday_research import research_holidays
+        holidays_path = research_holidays()
+    except Exception as e:
+        sys.stderr.write(f"  Holiday research skipped: {e}\n")
+
     os.makedirs(EDITORIAL_DIR, exist_ok=True)
     print(f"Processing {len(blueprints)} blueprint(s) for client strategies...")
     for bp in blueprints:
         print(f"\n{'='*70}\n=== {os.path.basename(bp)} ===\n{'='*70}")
-        r = subprocess.run([
+        cmd = [
             sys.executable,
             os.path.join(PIPELINE_DIR, "generate_editorial_briefs.py"),
             "--pro", pro, "--demand", dem, "--blueprint", bp, "--output", EDITORIAL_DIR,
-        ])
+        ]
+        if holidays_path:
+            cmd += ["--holidays", holidays_path]
+        r = subprocess.run(cmd)
         if r.returncode != 0:
             sys.stderr.write(f"  WARNING: briefs failed for {os.path.basename(bp)} (continuing)\n")
 
@@ -175,6 +187,9 @@ def main():
             f"{adir}/{month_dash}/data.js": data_js_text,  # month snapshot
             f"{adir}/manifest.json": json.dumps(manifest, indent=2),
         }
+        if holidays_path and os.path.exists(holidays_path):
+            with open(holidays_path, encoding="utf-8") as f:
+                files[f"{adir}/{month_dash}/holidays_research.json"] = f.read()
         ok, info = push_files(files, f"ARTIS issue {month_dash}: dataset + analysis archive")
         if ok:
             print(f"✓ published issue {month_dash} to GitHub (commit {info}); the live site "

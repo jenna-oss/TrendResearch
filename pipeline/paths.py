@@ -34,6 +34,7 @@ DEM_ANALYSIS = IPT / "Demand Trends Data" / "Analysis"
 DEM_COWORK = DEM_RESEARCH / "Cowork Inputs"
 EDITORIAL = IPT / "Editorial Briefs"
 REPORTS = IPT / "Reports"
+HOLIDAYS = IPT / "Holidays"
 
 # Blueprints: in CI the runner has them checked out at <repo>/blueprints; locally
 # they live alongside the other working data. Configurable either way.
@@ -48,7 +49,7 @@ DATA_JS = APP_ROOT / "prototype" / "data.js"
 def ensure_dirs():
     """Create the working-tree folders if they don't exist."""
     for d in (PRO_RESEARCH, PRO_ANALYSIS, DEM_RESEARCH, DEM_ANALYSIS,
-              DEM_COWORK, EDITORIAL, REPORTS, BLUEPRINTS):
+              DEM_COWORK, EDITORIAL, REPORTS, HOLIDAYS, BLUEPRINTS):
         d.mkdir(parents=True, exist_ok=True)
 
 

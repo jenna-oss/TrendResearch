@@ -786,12 +786,92 @@ BLUEPRINT:
 # MAIN ORCHESTRATOR
 # ============================================================================
 
+def evaluate_holidays(editorial_profile, holidays, client_name):
+    """Decide which upcoming holidays this client should speak on, grounded in the blueprint."""
+    print("\nStep 9: Evaluating holiday opportunities...")
+    if not holidays:
+        print("  (no holidays provided — skipping)")
+        return []
+
+    compact = [
+        {
+            "name": h.get("name"),
+            "date": h.get("date") or (
+                f"{h.get('date_start')}–{h.get('date_end')}" if h.get("date_start") else ""),
+            "category": h.get("category"),
+            "significance": h.get("significance", ""),
+            "content_angles": h.get("content_angles", []),
+        }
+        for h in holidays
+    ]
+
+    system_prompt = (
+        "You are the editorial creative director for a luxury interior design firm. You decide which "
+        "upcoming holidays and cultural moments the firm should speak on in public — and which to ignore — "
+        "strictly through the lens of the client's documented convictions, obsessions, anti-beliefs, and "
+        "voice. A holiday is only worth speaking on if the client can say something specific and true to who "
+        "they are; generic 'Happy [Holiday]' posts fail."
+    )
+
+    user_prompt = f"""Evaluate these upcoming holidays for {client_name}.
+
+EDITORIAL PROFILE:
+{json.dumps({
+  "convictions": [c.get("statement") for c in editorial_profile.get("convictions", [])],
+  "obsessions": [o.get("topic") for o in editorial_profile.get("obsessions", [])],
+  "anti_beliefs": [a.get("description") for a in editorial_profile.get("anti_beliefs", [])],
+  "voice_constraints": editorial_profile.get("voice_constraints", {}),
+}, indent=2)}
+
+HOLIDAYS:
+{json.dumps(compact, indent=2)}
+
+For EACH holiday decide whether the client should speak on it:
+- "Lead": a natural fit — the client has a specific, on-brand thing to say.
+- "Consider": possible with the right restrained angle; not a priority.
+- "Skip": off-register; speaking would be generic or off-brand.
+
+Output ONLY a JSON array, no prose:
+[
+  {{
+    "name": "",
+    "date": "",
+    "category": "general" | "design_art",
+    "recommendation": "Lead" | "Consider" | "Skip",
+    "why": "1-2 sentences grounded in THIS client's specific convictions/obsessions (name them)",
+    "angle": "how to approach it in their voice (empty if Skip)",
+    "likely_opinion": "1-2 sentences in the client's authentic voice (empty if Skip)"
+  }}
+]"""
+
+    try:
+        response = client_api.messages.create(
+            model=MODEL, max_tokens=4000,
+            system=system_prompt,
+            messages=[{"role": "user", "content": user_prompt}],
+        )
+        raw = response.content[0].text.strip()
+        if raw.startswith("```"):
+            raw = raw.split("```")[1]
+            if raw.startswith("json"):
+                raw = raw[4:]
+            raw = raw.strip()
+        result = json.loads(raw)
+        lead = sum(1 for r in result if r.get("recommendation") == "Lead")
+        print(f"  ✓ Evaluated {len(result)} holidays ({lead} to lead on)")
+        return result
+    except Exception as e:
+        print(f"  ⚠️  Holiday evaluation failed: {e}")
+        return []
+
+
 def main():
     parser = argparse.ArgumentParser(description="Artis Editorial Reasoning Engine")
     parser.add_argument("--pro", required=True, help="Path to professional trend_patterns.json")
     parser.add_argument("--demand", required=True, help="Path to demand_patterns.json")
     parser.add_argument("--blueprint", required=True, help="Path to client blueprint .md")
     parser.add_argument("--output", required=True, help="Output directory")
+    parser.add_argument("--holidays", help="Path to holidays_research.json (optional)")
     args = parser.parse_args()
 
     t_start = time.time()
@@ -860,6 +940,13 @@ def main():
         lead_count, watch_count, skip_count
     )
 
+    # ----- Holiday opportunities (which holidays this client should speak on) -----
+    holidays = []
+    if args.holidays and os.path.exists(args.holidays):
+        with open(args.holidays, encoding="utf-8") as f:
+            holidays = json.load(f).get("holidays", [])
+    holiday_opportunities = evaluate_holidays(editorial_profile, holidays, client_name)
+
     # ----- Step 8: Write editorial_briefs.json -----
     output_dir = Path(args.output)
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -878,6 +965,7 @@ def main():
         },
         "strategic_summary": strategic_summary,
         "editorial_agenda": ranked_agenda,
+        "holiday_opportunities": holiday_opportunities,
         "briefs": briefs_sorted,
     }
 
@@ -907,6 +995,7 @@ def main():
                 "Skip":  sum(1 for p in picks.values() if p["verdict"] == "Skip"),
             },
             "picks": picks,
+            "holidays": holiday_opportunities,
         }
     }
 
