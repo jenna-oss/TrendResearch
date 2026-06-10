@@ -1,0 +1,2122 @@
+{
+  "generated_at": "2026-06-10T20:48:52.809284+00:00",
+  "vertical": "interior_design",
+  "question_served": "demand",
+  "input_signal_count": 94,
+  "canonical_cluster_count": 96,
+  "trends_total": 43,
+  "trends_cross_source": 16,
+  "trends_single_source": 27,
+  "patterns": [
+    {
+      "rank": 1,
+      "theme_label": "spa and wellness spaces",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 3,
+      "sources": [
+        "Google Trends",
+        "Houzz",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 4,
+      "weighted_score": 18.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -41.2,
+      "avg_yoy_pct": null,
+      "peak_idx": 5,
+      "representative_signals": [
+        {
+          "term_raw": "spa bathroom design",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -41.2,
+          "yoy_pct": null,
+          "idx": 5
+        },
+        {
+          "term_raw": "Before and After: 4 Bathrooms Under 57 Square Feet Lose the Tub (8 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Two-Story ADU Designed for Multigenerational Living (16 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "theme_label": "natural finishes and architectural details",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 3,
+      "sources": [
+        "Google Trends",
+        "Houzz",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 4,
+      "weighted_score": 18.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -20.7,
+      "avg_yoy_pct": 57.6,
+      "peak_idx": 5,
+      "representative_signals": [
+        {
+          "term_raw": "custom millwork",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -20.7,
+          "yoy_pct": 57.6,
+          "idx": 5
+        },
+        {
+          "term_raw": "Seattle Kitchen Gains Timeless English Cottage Charm (11 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Seattle Kitchen Gains Timeless English Cottage Charm (11 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "theme_label": "light wood cabinetry",
+      "direction": "rising",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 4,
+      "weighted_score": 22.0,
+      "quant_trajectory": "rising",
+      "avg_mom_pct": 20.7,
+      "avg_yoy_pct": 146.2,
+      "peak_idx": 8,
+      "representative_signals": [
+        {
+          "term_raw": "cerused oak",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "rising",
+          "mom_pct": 20.7,
+          "yoy_pct": 146.2,
+          "idx": 8
+        },
+        {
+          "term_raw": "5 New Bathrooms With Space-Saving Strategies (5 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Pale Green and Oak Kitchen With a Hidden Pantry (13 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "theme_label": "butler's pantry and storage",
+      "direction": "steady",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 5,
+      "weighted_score": 22.0,
+      "quant_trajectory": "steady",
+      "avg_mom_pct": -1.6,
+      "avg_yoy_pct": -6.0,
+      "peak_idx": 59,
+      "representative_signals": [
+        {
+          "term_raw": "butlers pantry",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "steady",
+          "mom_pct": -3.1,
+          "yoy_pct": -13.2,
+          "idx": 59
+        },
+        {
+          "term_raw": "scullery kitchen",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "steady",
+          "mom_pct": 0.0,
+          "yoy_pct": 1.1,
+          "idx": 11
+        },
+        {
+          "term_raw": "Pale Green and Oak Kitchen With a Hidden Pantry (13 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "theme_label": "natural stone finishes",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 5,
+      "weighted_score": 19.2,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -36.4,
+      "avg_yoy_pct": 66.4,
+      "peak_idx": 29,
+      "representative_signals": [
+        {
+          "term_raw": "honed stone",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -37.8,
+          "yoy_pct": 119.4,
+          "idx": 29
+        },
+        {
+          "term_raw": "soapstone countertop",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -35.0,
+          "yoy_pct": 13.3,
+          "idx": 16
+        },
+        {
+          "term_raw": "5 New Bathrooms With Space-Saving Strategies (5 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "theme_label": "arched and curved elements",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 4,
+      "weighted_score": 18.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -100.0,
+      "avg_yoy_pct": 0.0,
+      "peak_idx": 0,
+      "representative_signals": [
+        {
+          "term_raw": "arched doorways",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -100.0,
+          "yoy_pct": 0.0,
+          "idx": 0
+        },
+        {
+          "term_raw": "8 Design Trends Emerging in 2026 (16 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "8 Design Trends Emerging in 2026 (16 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "theme_label": "reeded and textured wood details",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 3,
+      "weighted_score": 12.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -8.9,
+      "avg_yoy_pct": 310.6,
+      "peak_idx": 13,
+      "representative_signals": [
+        {
+          "term_raw": "reeded wood",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -8.9,
+          "yoy_pct": 310.6,
+          "idx": 13
+        },
+        {
+          "term_raw": "84-Square-Foot Bathroom With Soft Color and an Open Feel (6 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "7 Standout Lighting Trends to Watch in 2026 (17 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "theme_label": "burgundy and rich color palettes",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 3,
+      "weighted_score": 12.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -42.9,
+      "avg_yoy_pct": 292.9,
+      "peak_idx": 11,
+      "representative_signals": [
+        {
+          "term_raw": "moody interior",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -42.9,
+          "yoy_pct": 292.9,
+          "idx": 11
+        },
+        {
+          "term_raw": "8 Contemporary Furniture Trends for 2026 (19 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "6 Dramatic New Powder Rooms (6 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "theme_label": "quiet luxury aesthetic",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 3,
+      "weighted_score": 12.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -15.4,
+      "avg_yoy_pct": null,
+      "peak_idx": 4,
+      "representative_signals": [
+        {
+          "term_raw": "quiet luxury interior",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -15.4,
+          "yoy_pct": null,
+          "idx": 4
+        },
+        {
+          "term_raw": "Inside a Contemporary Hollywood Hideaway",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Inside a Timeless Hollywood Sanctuary",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "theme_label": "weathering steel and industrial metals",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 2,
+      "sources": [
+        "Houzz",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 3,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Inside a Contemporary Hollywood Hideaway",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "8 Creative Small-Yard Ideas From the 2026 Chelsea Flower Show (11 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "mentioned",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "8 Creative Small-Yard Ideas From the 2026 Chelsea Flower Show (11 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "mentioned",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "theme_label": "terra cotta and warm earth tones",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 4,
+      "weighted_score": 10.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -27.9,
+      "avg_yoy_pct": 124.2,
+      "peak_idx": 5,
+      "representative_signals": [
+        {
+          "term_raw": "earth tone interior",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "no data",
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": 2
+        },
+        {
+          "term_raw": "plaster pink",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -27.9,
+          "yoy_pct": 124.2,
+          "idx": 5
+        },
+        {
+          "term_raw": "84-Square-Foot Bathroom With Soft Color and an Open Feel (6 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "theme_label": "coffered ceilings",
+      "direction": "steady",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 2,
+      "weighted_score": 8.0,
+      "quant_trajectory": "steady",
+      "avg_mom_pct": -0.7,
+      "avg_yoy_pct": -11.0,
+      "peak_idx": 66,
+      "representative_signals": [
+        {
+          "term_raw": "coffered ceiling",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "steady",
+          "mom_pct": -0.7,
+          "yoy_pct": -11.0,
+          "idx": 66
+        },
+        {
+          "term_raw": "Inside a Tranquil Texas Retreat",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "theme_label": "spiraling staircases",
+      "direction": "steady",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 2,
+      "weighted_score": 8.0,
+      "quant_trajectory": "steady",
+      "avg_mom_pct": 0.0,
+      "avg_yoy_pct": null,
+      "peak_idx": 0,
+      "representative_signals": [
+        {
+          "term_raw": "statement staircase",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "steady",
+          "mom_pct": 0.0,
+          "yoy_pct": null,
+          "idx": 0
+        },
+        {
+          "term_raw": "Inside a Timeless Hollywood Sanctuary",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "theme_label": "Mediterranean villa style",
+      "direction": "present",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 2,
+      "weighted_score": 7.0,
+      "quant_trajectory": "no data",
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": 0,
+      "representative_signals": [
+        {
+          "term_raw": "modern mediterranean interior",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "no data",
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": 0
+        },
+        {
+          "term_raw": "Inside Connecticut\u2019s Historic Cedar Cliff",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "theme_label": "English cottage charm",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 2,
+      "weighted_score": 6.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -50.0,
+      "avg_yoy_pct": 200.0,
+      "peak_idx": 0,
+      "representative_signals": [
+        {
+          "term_raw": "english country house",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -50.0,
+          "yoy_pct": 200.0,
+          "idx": 0
+        },
+        {
+          "term_raw": "Seattle Kitchen Gains Timeless English Cottage Charm (11 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "theme_label": "natural materials in neutral hues",
+      "direction": "declining",
+      "tier_label": "cross_source",
+      "source_count": 2,
+      "sources": [
+        "Google Trends",
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": true,
+      "signal_count": 2,
+      "weighted_score": 6.6,
+      "quant_trajectory": "declining",
+      "avg_mom_pct": -32.9,
+      "avg_yoy_pct": 161.0,
+      "peak_idx": 28,
+      "representative_signals": [
+        {
+          "term_raw": "warm white paint",
+          "source_name": "Google Trends",
+          "tier": 2,
+          "signal_type": "quantitative",
+          "presence": null,
+          "trajectory": "declining",
+          "mom_pct": -32.9,
+          "yoy_pct": 161.0,
+          "idx": 28
+        },
+        {
+          "term_raw": "Inside a Contemporary Hollywood Hideaway",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "theme_label": "kitchen storage and organization",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 7,
+      "weighted_score": 42.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "10 Tips for Designing a Kitchen That\u2019s Easy to Keep Organized (12 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Tips for Designing a Kitchen That\u2019s Easy to Keep Organized (12 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Tips for Designing a Kitchen That\u2019s Easy to Keep Organized (12 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "theme_label": "accessible design and aging in place",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 6,
+      "weighted_score": 36.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "11 Ways to Age-Proof Your Bathroom (15 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "11 Ways to Age-Proof Your Bathroom (15 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "11 Ways to Age-Proof Your Bathroom (15 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "theme_label": "low-maintenance landscapes",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 6,
+      "weighted_score": 36.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "10 Outdoor Remodeling Trends to Know for 2026 (20 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "How to Design Your Yard for More Meaning and Connection (11 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "How to Design Your Yard for More Meaning and Connection (11 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "theme_label": "outdoor dining and entertaining",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 5,
+      "weighted_score": 30.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "10 Ways to Refresh Your Outdoor Dining Area for Summer (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Ways to Refresh Your Outdoor Dining Area for Summer (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Ways to Refresh Your Outdoor Dining Area for Summer (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "theme_label": "living room layout and seating",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 4,
+      "weighted_score": 24.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "7 Common Living Room Layout Mistakes and How to Avoid Them (8 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "7 Common Living Room Layout Mistakes and How to Avoid Them (8 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "7 Common Living Room Layout Mistakes and How to Avoid Them (8 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "theme_label": "botanical and floral patterns",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 4,
+      "weighted_score": 24.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "84-Square-Foot Bathroom With Soft Color and an Open Feel (6 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "84-Square-Foot Bathroom With Soft Color and an Open Feel (6 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "6 Dramatic New Powder Rooms (6 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "theme_label": "geometric and sculptural lighting",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 4,
+      "weighted_score": 24.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "7 Standout Lighting Trends to Watch in 2026 (17 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "7 Standout Lighting Trends to Watch in 2026 (17 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "6 Dramatic New Powder Rooms (6 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "theme_label": "kitchen cabinet end solutions",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 4,
+      "weighted_score": 24.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "10 Clever Ways to Finish a Kitchen Cabinet Run (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Clever Ways to Finish a Kitchen Cabinet Run (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Clever Ways to Finish a Kitchen Cabinet Run (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "theme_label": "heritage brick and masonry",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 4,
+      "weighted_score": 24.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Brick Is Back: The Design Material That Never Dates",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Brick Is Back: The Design Material That Never Dates",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Brick Is Back: The Design Material That Never Dates",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "theme_label": "durable family-friendly materials",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "New Lake House Designed for Three Generations (22 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Remodeled Kitchen Gets Cheerful Scandinavian-Inspired Color (15 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Remodeled Kitchen Gets Cheerful Scandinavian-Inspired Color (15 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "theme_label": "decorative furniture detailing",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "8 Contemporary Furniture Trends for 2026 (19 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "8 Contemporary Furniture Trends for 2026 (19 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "8 Contemporary Furniture Trends for 2026 (19 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "theme_label": "kitchen circulation and layout",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "10 Common Kitchen Layout Mistakes and How to Avoid Them (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Common Kitchen Layout Mistakes and How to Avoid Them (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Common Kitchen Layout Mistakes and How to Avoid Them (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "theme_label": "collected global style",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "New Condo With Cozy Collected Style (14 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "New Condo With Cozy Collected Style (14 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "New Condo With Cozy Collected Style (14 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "theme_label": "seamless indoor-outdoor living",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 3,
+      "weighted_score": 18.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Inspirational Indoor-Outdoor Living for the Changing Season",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Inspirational Indoor-Outdoor Living for the Changing Season",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Inspirational Indoor-Outdoor Living for the Changing Season",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "theme_label": "multigenerational living solutions",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "New Lake House Designed for Three Generations (22 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Two-Story ADU Designed for Multigenerational Living (16 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "theme_label": "construction and project management",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 4,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Your Guide to a Smooth-Running Construction Project (9 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "mentioned",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Your Guide to a Smooth-Running Construction Project (9 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "mentioned",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Your Guide to a Smooth-Running Construction Project (9 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "mentioned",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "theme_label": "patio protection and shade",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "10 Ways to Refresh Your Outdoor Dining Area for Summer (10 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Outdoor Remodeling Trends to Know for 2026 (20 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "theme_label": "Scandinavian design influences",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Remodeled Kitchen Gets Cheerful Scandinavian-Inspired Color (15 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Remodeled Kitchen Gets Cheerful Scandinavian-Inspired Color (15 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "theme_label": "outdoor kitchen and living systems",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "10 Outdoor Remodeling Trends to Know for 2026 (20 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "10 Outdoor Remodeling Trends to Know for 2026 (20 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "theme_label": "deep blue-green cabinetry",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Pale Green and Oak Kitchen With a Hidden Pantry (13 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "5 New Laundry Rooms That Work Hard and Look Good (9 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "theme_label": "kitchen islands and work zones",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Before and After: 4 Welcoming Kitchens in 315 to 360 Square Feet (12 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Before and After: 4 Welcoming Kitchens in 315 to 360 Square Feet (12 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "theme_label": "scalloped and wave tile",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "8 Design Trends Emerging in 2026 (16 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "8 Design Trends Emerging in 2026 (16 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "theme_label": "turquoise color schemes",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Color Chart: The Joys of Turquoise in the Home",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Color Chart: The Joys of Turquoise in the Home",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "theme_label": "architectural presence and scale",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "New and Notable Properties: June 2026",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "New and Notable Properties: June 2026",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "theme_label": "complete seclusion and privacy",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "New and Notable Properties: June 2026",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Inside Connecticut\u2019s Historic Cedar Cliff",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "theme_label": "art collection display",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Sotheby's International Realty (Extraordinary Living)"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 12.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "Why Peggy Guggenheim Is Still a Collector\u2019s Inspiration",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "Why Peggy Guggenheim Is Still a Collector\u2019s Inspiration",
+          "source_name": "Sotheby's International Realty (Extraordinary Living)",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "featured",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "theme_label": "window maintenance",
+      "direction": "hnw_confirmed",
+      "tier_label": "hnw_only",
+      "source_count": 1,
+      "sources": [
+        "Houzz"
+      ],
+      "t1_present": true,
+      "t2_present": false,
+      "signal_count": 2,
+      "weighted_score": 6.0,
+      "quant_trajectory": null,
+      "avg_mom_pct": null,
+      "avg_yoy_pct": null,
+      "peak_idx": null,
+      "representative_signals": [
+        {
+          "term_raw": "How to Clean Your Windows and Keep Them Streak-Free (8 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "mentioned",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        },
+        {
+          "term_raw": "How to Clean Your Windows and Keep Them Streak-Free (8 photos)",
+          "source_name": "Houzz",
+          "tier": 1,
+          "signal_type": "qualitative_prose",
+          "presence": "mentioned",
+          "trajectory": null,
+          "mom_pct": null,
+          "yoy_pct": null,
+          "idx": null
+        }
+      ]
+    }
+  ]
+}

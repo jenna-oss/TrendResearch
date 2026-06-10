@@ -1,0 +1,864 @@
+{
+  "stoevdesigngroup": {
+    "brief": "SDG can claim the intersection where environmental responsibility meets structural design intelligence—reframing sustainability from marketing language into evidence-based spatial practice. The convergence of material authenticity trends with botanical precision creates an opening to establish plants-as-architecture as the sophisticated alternative to decorative landscaping. The market's shift toward material honesty and quiet luxury creates space for SDG to differentiate environmental stewardship through observed evidence rather than proclaimed values. This moment allows the practice to establish structural planting as the sophisticated alternative to both decorative landscaping and sustainability theater, positioning design intelligence as the bridge between site response and environmental responsibility.",
+    "counts": {
+      "Lead": 12,
+      "Watch": 64,
+      "Skip": 66
+    },
+    "picks": {
+      "p-vintage-italian-design-revivals": {
+        "verdict": "Skip",
+        "fit": 23,
+        "why": "Interior-focused trend sits outside SDG's outdoor living environment expertise",
+        "opinion": ""
+      },
+      "p-sustainable-landscaping": {
+        "verdict": "Lead",
+        "fit": 83,
+        "why": "Rising professional momentum creates opportunity to establish SDG's evidence-based environmental perspective",
+        "opinion": "The site determines what survives. We place plants where water moves naturally, where soil composition supports root architecture, where microclimates already exist. This is not sustainable landscapin"
+      },
+      "p-monochromatic-room-design": {
+        "verdict": "Skip",
+        "fit": 18,
+        "why": "Interior-focused trend outside SDG's outdoor environment expertise",
+        "opinion": ""
+      },
+      "p-hand-plastered-walls": {
+        "verdict": "Skip",
+        "fit": 15,
+        "why": "Interior material trend outside SDG's landscape architecture focus",
+        "opinion": ""
+      },
+      "p-reclaimed-wood-features": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Peak professional adoption suggests trend maturity, but reframing opportunity exists around material appropriateness",
+        "opinion": "We choose reclaimed wood when the site calls for weathered material - when new lumber would fight the established character of place. The wood's history becomes part of the land's story, not because i"
+      },
+      "p-gaud-casa-batll": {
+        "verdict": "Watch",
+        "fit": 61,
+        "why": "Low momentum limits urgency, but architectural form principles align strongly with SDG philosophy",
+        "opinion": "Gaudí understood that architecture emerges from natural form, not imposed upon it. His stone follows water's path, his curves mirror root systems. We apply this same logic to landscape architecture - "
+      },
+      "p-midcentury-renovation": {
+        "verdict": "Watch",
+        "fit": 58,
+        "why": "Strong consumer demand but low professional momentum suggests premature timing for professional leadership",
+        "opinion": "Midcentury landscape architecture understood plants as structural elements - not decoration, but walls that breathe and change. Thomas Church placed each plant to frame views, define spaces, create ou"
+      },
+      "p-tuscan-estates": {
+        "verdict": "Watch",
+        "fit": 48,
+        "why": "Low momentum but potential to reframe conversation from estate styling to Mediterranean landscape logic",
+        "opinion": "Tuscan landscapes work because they follow water and sun patterns that have existed for centuries. Olive groves follow natural drainage, stone terraces hold soil where water wants to flow, herb garden"
+      },
+      "p-thomas-l-shepherd-spanish-revival-archit": {
+        "verdict": "Skip",
+        "fit": 34,
+        "why": "Insufficient professional momentum and design discourse depth for meaningful engagement",
+        "opinion": "Spanish Revival architecture requires understanding the relationship between climate, materials, and site conditions that shaped these forms. When we encounter Thomas L. Shepherd's work, we observe ho"
+      },
+      "p-victorian-era-tableware": {
+        "verdict": "Skip",
+        "fit": 19,
+        "why": "Trend operates in decorative object territory outside SDG's structural design philosophy",
+        "opinion": ""
+      },
+      "p-michael-bargo-french-antique-collecting": {
+        "verdict": "Skip",
+        "fit": 11,
+        "why": "Individual designer profiles fall outside SDG's content strategy focus on design principles and site relationships",
+        "opinion": ""
+      },
+      "p-stylized-bunk-rooms": {
+        "verdict": "Skip",
+        "fit": 18,
+        "why": "Interior spatial design trend operates outside SDG's outdoor living environment expertise",
+        "opinion": ""
+      },
+      "p-color-theory-ceramics": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Trend directly supports SDG's art-informed design process with concrete material applications",
+        "opinion": "When art foundations collaborate with ceramic manufacturers, we observe the transfer of color theory from gallery walls to architectural surfaces. Mutina's recent work demonstrates how visual intellig"
+      },
+      "p-japanese-metabolism-architecture-influen": {
+        "verdict": "Watch",
+        "fit": 69,
+        "why": "Metabolism's modular, site-responsive principles directly parallel SDG's plants-as-architecture philosophy with strong educational content potential",
+        "opinion": "Japanese Metabolism architecture understood buildings as living systems that respond and adapt to site conditions over time. When we observe contemporary interpretations in ceramic-metal collaboration"
+      },
+      "p-solid-brass-fixtures": {
+        "verdict": "Watch",
+        "fit": 65,
+        "why": "Material quality advocacy aligns with SDG's stewardship values while offering concrete expertise in outdoor fixture applications",
+        "opinion": "Living finishes like solid brass demonstrate environmental stewardship through material longevity rather than marketing language. We specify brass fixtures for outdoor living environments because they"
+      },
+      "p-collaborative-craftsman-design": {
+        "verdict": "Watch",
+        "fit": 52,
+        "why": "Historical craft collaboration principles offer valuable design methodology insights, though geographic context limits direct application",
+        "opinion": "Indonesian collaborative craftsman design from the independence era demonstrates how regional material knowledge informs site-responsive building methods. When we observe these historical collaborativ"
+      },
+      "p-collaborative-design-partnerships": {
+        "verdict": "Skip",
+        "fit": 20,
+        "why": "Historical attribution debates don't advance SDG's design authority or client value",
+        "opinion": ""
+      },
+      "p-rh-estates-collection": {
+        "verdict": "Watch",
+        "fit": 67,
+        "why": "Retail appropriation of California modernism creates teaching moment about authentic site-responsive design",
+        "opinion": "Michael Taylor understood how furniture could anchor a space to its landscape without competing for attention. His pieces were selected for specific sites, specific light conditions, specific relation"
+      },
+      "p-heirloom-flower-revival": {
+        "verdict": "Lead",
+        "fit": 76,
+        "why": "Heritage plant trend creates opportunity to demonstrate architectural vs. decorative plant selection",
+        "opinion": "Alcea rosea appears in medieval monastery gardens because it creates vertical structure where walls cannot. We select heritage varieties not for nostalgia but for proven architectural performance - Di"
+      },
+      "p-heirloom-art-integration": {
+        "verdict": "Skip",
+        "fit": 28,
+        "why": "Interior-focused trend doesn't advance SDG's outdoor experience design authority",
+        "opinion": ""
+      },
+      "p-art-first-design-approach": {
+        "verdict": "Watch",
+        "fit": 70,
+        "why": "Art-first positioning validates SDG's methodology and creates opportunity to demonstrate sophistication",
+        "opinion": "We observe how James Turrell uses apertures to frame changing light, then apply that principle to guide sight lines through a garden sequence. Art informs structure before it influences style - the No"
+      },
+      "p-waffle-weave-textiles": {
+        "verdict": "Skip",
+        "fit": 3,
+        "why": "Interior textile specifications fall completely outside SDG's outdoor design expertise",
+        "opinion": ""
+      },
+      "p-outdoor-living-spaces": {
+        "verdict": "Lead",
+        "fit": 73,
+        "why": "Peak outdoor living trend creates opportunity to demonstrate superior experience design approach",
+        "opinion": "We design outdoor living environments rather than outdoor rooms because rooms have walls. Our spaces are defined by plant masses, grade changes, and material transitions that respond to seasonal condi"
+      },
+      "p-mother-of-pearl-accessories": {
+        "verdict": "Skip",
+        "fit": 5,
+        "why": "Decorative tableware accessories fall outside SDG's spatial design expertise",
+        "opinion": ""
+      },
+      "p-storage-bed-frames": {
+        "verdict": "Skip",
+        "fit": 12,
+        "why": "Interior furniture trends sit outside SDG's outdoor experience design focus",
+        "opinion": ""
+      },
+      "p-archive-inspired-collections": {
+        "verdict": "Watch",
+        "fit": 52,
+        "why": "Archive research methods align with SDG's observational design process",
+        "opinion": "We approach archives differently than most designers. While others mine historical collections for aesthetic references, we study how earlier designers solved site-specific problems. The 1960s Califor"
+      },
+      "p-classical-oil-painting-techniques": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Classical art training parallels SDG's disciplined observational methodology",
+        "opinion": "Classical oil painting techniques train the eye in ways that digital design tools cannot replicate. The discipline of color mixing teaches you to see subtle variations in natural light that directly i"
+      },
+      "p-charging-station-integration": {
+        "verdict": "Skip",
+        "fit": 8,
+        "why": "Interior technology solutions irrelevant to outdoor living environment design",
+        "opinion": ""
+      },
+      "p-michael-taylor-california-casual-influen": {
+        "verdict": "Watch",
+        "fit": 55,
+        "why": "California design legacy offers framework for discussing site-responsive design principles",
+        "opinion": "Michael Taylor understood something most contemporary designers miss about California design - it was never about a look, it was about a relationship to landscape. His furniture placement responded to"
+      },
+      "p-animalia-furniture": {
+        "verdict": "Skip",
+        "fit": 11,
+        "why": "Interior furniture styling irrelevant to outdoor experience design focus",
+        "opinion": ""
+      },
+      "p-conversation-pit-couches": {
+        "verdict": "Watch",
+        "fit": 50,
+        "why": "Spatial configuration principles relevant to outdoor gathering space design",
+        "opinion": "Conversation pits work better outdoors than indoors. The sunken seating concept makes sense when you can use grade changes and retaining walls as structural elements rather than building furniture. We"
+      },
+      "p-bedroom-libraries": {
+        "verdict": "Skip",
+        "fit": 8,
+        "why": "Interior bedroom programming irrelevant to outdoor living environment design",
+        "opinion": ""
+      },
+      "p-produce-inspired-palettes": {
+        "verdict": "Skip",
+        "fit": 21,
+        "why": "Trend focuses on decorative color choices rather than structural plant placement - incompatible with SDG's plants-as-architecture conviction",
+        "opinion": ""
+      },
+      "p-ceramic-burlwood-finishes": {
+        "verdict": "Watch",
+        "fit": 61,
+        "why": "Opportunity to discuss material authenticity in outdoor environments where weather exposure reveals craft quality",
+        "opinion": "We observe ceramic techniques that mimic wood grain with interest, particularly Alan Louis's Portuguese work. In outdoor environments, this mimicry faces weather exposure that reveals whether craft tr"
+      },
+      "p-melbourne-design-week": {
+        "verdict": "Watch",
+        "fit": 47,
+        "why": "Australia's landscape extremes may inform outdoor design innovation worth monitoring",
+        "opinion": "Australia's design momentum interests us less for its cultural positioning than for its environmental necessity. Melbourne's climate extremes - drought, flooding, intense UV - demand outdoor design so"
+      },
+      "p-plaster-botanical-lighting": {
+        "verdict": "Lead",
+        "fit": 75,
+        "why": "Opportunity to distinguish between botanical representation and living plant architecture - core to SDG's identity",
+        "opinion": "Plaster botanical forms in lighting represent plants as decoration, not architecture. When we observe Venetian glassblowing paired with botanical plaster casting, we see craft skill applied to plant r"
+      },
+      "p-contemporary-insertion-in-historic-inter": {
+        "verdict": "Watch",
+        "fit": 62,
+        "why": "Opportunity to discuss site-first principles in outdoor environments where historic context meets contemporary living needs",
+        "opinion": "Contemporary insertion succeeds when it responds to site history rather than imposing contemporary taste. We observe this principle outdoors where historic gardens meet current environmental pressures"
+      },
+      "p-sensory-design-process": {
+        "verdict": "Watch",
+        "fit": 70,
+        "why": "Aligns perfectly with SDG's experience design conviction and offers opportunity to articulate outdoor sensory design",
+        "opinion": "We design experiences, not landscape architecture - this requires sensory intelligence beyond visual composition. Outdoor environments engage all senses: wind through specific plant textures creates s"
+      },
+      "p-1-12-scale-design": {
+        "verdict": "Skip",
+        "fit": 17,
+        "why": "Miniature interior design does not connect to outdoor environmental work or plant architecture",
+        "opinion": ""
+      },
+      "p-portrait-miniatures-revival": {
+        "verdict": "Skip",
+        "fit": 18,
+        "why": "Portrait miniatures have no application to outdoor environmental design or plant architecture",
+        "opinion": ""
+      },
+      "p-radical-topiary": {
+        "verdict": "Lead",
+        "fit": 75,
+        "why": "Trend validates core SDG philosophy while most practitioners still view topiary as decoration rather than architecture",
+        "opinion": "We have always approached topiary as architecture rather than ornament. Where others see decorative hedge work, we place Taxus baccata as structural walls that define outdoor rooms with the same inten"
+      },
+      "p-residential-gallery-retail": {
+        "verdict": "Skip",
+        "fit": 24,
+        "why": "Trend sits outside SDG's domain expertise and client focus areas",
+        "opinion": ""
+      },
+      "p-make-do-and-mend-revival": {
+        "verdict": "Watch",
+        "fit": 60,
+        "why": "Core principle alignment but requires careful navigation of environmental messaging boundaries",
+        "opinion": "We approach plant stewardship with the same logic. Rather than replacing established specimens with fashionable alternatives, we preserve and enhance what the site has developed over decades. A mature"
+      },
+      "p-antique-filled-apartment-exhibitions": {
+        "verdict": "Skip",
+        "fit": 19,
+        "why": "Trend exists outside SDG's professional domain and client interests",
+        "opinion": ""
+      },
+      "p-metal-stone-glass-fusion": {
+        "verdict": "Watch",
+        "fit": 68,
+        "why": "Client's Milan Design Week exposure positions her to translate interior material trends into landscape applications",
+        "opinion": "The material fusion we observed at Milan—Vincenzo De Cotiis manipulating steel and glass into landscape-like forms—translates directly into hardscape decisions. Where interior designers experiment wit"
+      },
+      "p-skateboard-as-sculptural-object": {
+        "verdict": "Skip",
+        "fit": 12,
+        "why": "Trend exists entirely outside SDG's professional expertise and client interests",
+        "opinion": ""
+      },
+      "p-modular-mohair-seating": {
+        "verdict": "Skip",
+        "fit": 17,
+        "why": "Interior furniture trend with minimal landscape architecture relevance",
+        "opinion": ""
+      },
+      "p-smart-toilet-design": {
+        "verdict": "Skip",
+        "fit": 7,
+        "why": "Interior bathroom design trend entirely outside SDG's professional domain",
+        "opinion": ""
+      },
+      "p-vintage-market-transparency": {
+        "verdict": "Skip",
+        "fit": 17,
+        "why": "Peak adoption suggests established practice rather than emerging opportunity; outside SDG's core expertise",
+        "opinion": ""
+      },
+      "p-structure-versus-creative-freedom": {
+        "verdict": "Watch",
+        "fit": 55,
+        "why": "Stable trend suggests ongoing relevance for practice positioning",
+        "opinion": "We structure our practice around site responsiveness, not operational efficiency. Each site presents unique architectural opportunities that standardized workflows cannot anticipate. The tension betwe"
+      },
+      "p-value-conscious-luxury": {
+        "verdict": "Watch",
+        "fit": 67,
+        "why": "Rising trend aligns with SDG's structural approach to outdoor environments",
+        "opinion": "We invest in what creates the outdoor living environment's structural foundation: mature specimens positioned as architectural elements, engineered soil systems, integrated hardscape that serves the p"
+      },
+      "p-garden-antiques-collecting": {
+        "verdict": "Watch",
+        "fit": 52,
+        "why": "Stable trend provides opportunity to distinguish structural approach from decorative collecting",
+        "opinion": "We select antique elements when they serve the site's structural needs, not for their collectible status. An eighteenth-century wellhead might anchor a water feature if the site calls for that focal p"
+      },
+      "p-immersive-theatrical-design": {
+        "verdict": "Watch",
+        "fit": 70,
+        "why": "Rising trend intersects directly with SDG's experience-centered approach while avoiding theatrical presentation",
+        "opinion": "We design experiences, not scenes. Theater places audiences inside constructed worlds; we create outdoor living environments where inhabitants move through planted architecture. The difference: theatr"
+      },
+      "p-artisanal-construction-methods": {
+        "verdict": "Watch",
+        "fit": 46,
+        "why": "Rising trend relevant to luxury positioning but outside SDG's primary construction expertise",
+        "opinion": "We specify construction methods based on what the site requires for long-term plant establishment. Stone placement, drainage systems, soil engineering—these foundational decisions determine whether ou"
+      },
+      "p-french-interior-design-renaissance": {
+        "verdict": "Skip",
+        "fit": 20,
+        "why": "Peak trend in unrelated domain—interior design maximalism doesn't inform outdoor environment design",
+        "opinion": ""
+      },
+      "p-radical-counterculture-bookshops": {
+        "verdict": "Skip",
+        "fit": 16,
+        "why": "Rising trend in unrelated retail domain with no clear connection to outdoor environment design",
+        "opinion": ""
+      },
+      "p-asian-tea-culture-hospitality": {
+        "verdict": "Watch",
+        "fit": 66,
+        "why": "Opportunity to establish authority on ceremonial space design while trend is emerging professionally",
+        "opinion": "Tea ceremony demands specific spatial relationships that most designers approach as decoration rather than architecture. We design the ritual first - the height at which hands pour water, the distance"
+      },
+      "p-archive-inspired-glazes": {
+        "verdict": "Skip",
+        "fit": 42,
+        "why": "Material trend without strong connection to spatial design or client's core convictions",
+        "opinion": "Archive glaze techniques require understanding the chemistry behind historical color development, not just copying surface patterns. When ceramicists reference botanical forms in glazework, the accura"
+      },
+      "p-fashion-house-design-presence": {
+        "verdict": "Watch",
+        "fit": 62,
+        "why": "Peak moment to distinguish authentic design development from commercial brand extension",
+        "opinion": "When fashion houses enter design, the question becomes whether they are developing design language or extending marketing reach. We observe this at Salone - brands that understand material relationshi"
+      },
+      "p-napoleon-iii-period-reupholstery": {
+        "verdict": "Skip",
+        "fit": 36,
+        "why": "Period furniture restoration sits outside client's contemporary design focus and experience-based practice",
+        "opinion": "Period furniture restoration requires understanding the original construction methods, not just applying period-appropriate fabrics to later frames. Napoleon III pieces demand specific knowledge of 18"
+      },
+      "p-anonymous-aristocratic-buyers": {
+        "verdict": "Skip",
+        "fit": 28,
+        "why": "Ultra-luxury market trends sit outside client's practice focus and conflict with understated presentation values",
+        "opinion": "Anonymous restoration of historical properties raises questions about stewardship versus ownership. When wealthy buyers restore palazzos privately, the site's relationship to its broader context becom"
+      },
+      "p-high-point-community-engagement": {
+        "verdict": "Skip",
+        "fit": 18,
+        "why": "Local community initiative outside client's geographic focus and design practice scope",
+        "opinion": "Design education benefits when practitioners share knowledge beyond client projects. We contribute to design discourse through our LinkedIn presence, focusing on design principles rather than market p"
+      },
+      "p-african-inspired-furniture-design": {
+        "verdict": "Watch",
+        "fit": 64,
+        "why": "Opportunity to establish sophisticated perspective on cultural influence in design while trend is emerging",
+        "opinion": "Cultural influence in furniture design requires understanding construction methods and material relationships, not copying visual motifs. When African diaspora artists develop furniture, they often re"
+      },
+      "p-strategic-restoration": {
+        "verdict": "Watch",
+        "fit": 68,
+        "why": "Strategic restraint philosophy strongly aligns with client's understated approach and structural thinking",
+        "opinion": "Strategic restoration requires understanding what serves the site versus what serves display. We approach existing landscapes with the same precision - identifying which elements support the land's st"
+      },
+      "p-pattern-drenched-layering": {
+        "verdict": "Skip",
+        "fit": 13,
+        "why": "Interior pattern methodology falls completely outside SDG's outdoor living expertise and experience design focus",
+        "opinion": ""
+      },
+      "p-multi-functional-luxury-homes": {
+        "verdict": "Watch",
+        "fit": 52,
+        "why": "Aligns with experience design approach but lacks urgency - established shift rather than emerging need",
+        "opinion": "We see this functional shift extending into outdoor living environments. When homes serve multiple purposes, the exterior spaces must respond with equal flexibility. Our approach places plants as arch"
+      },
+      "p-azalea-timing": {
+        "verdict": "Watch",
+        "fit": 69,
+        "why": "Opportunity to distinguish experience design approach from instructional landscaping advice",
+        "opinion": "We don't think in planting seasons - we read site conditions. The power of place determines when Rhododendron indicum belongs in a composition, not the calendar. Soil moisture patterns, existing root "
+      },
+      "p-sicilian-baroque-wedding-venues": {
+        "verdict": "Skip",
+        "fit": 19,
+        "why": "Event coverage without design methodology relevance to outdoor living experience creation",
+        "opinion": ""
+      },
+      "p-vienna-design-pilgrimage": {
+        "verdict": "Watch",
+        "fit": 47,
+        "why": "Travel observation aligns with design process but lacks urgent application to current projects",
+        "opinion": "Vienna's Secession architecture teaches us about structural rhythm in unexpected ways. The geometric plant motifs in Olbrich's facades translate directly into how we think about Buxus sempervirens spa"
+      },
+      "p-scandinavian-coastal-influence": {
+        "verdict": "Skip",
+        "fit": 20,
+        "why": "Shopping guide approach contradicts site-first design philosophy and risks geographic inaccuracy",
+        "opinion": ""
+      },
+      "p-abbas-akhavan-venice-biennale": {
+        "verdict": "Watch",
+        "fit": 65,
+        "why": "Contemporary art validation of plants-as-architecture approach provides authoritative support for core conviction",
+        "opinion": "Akhavan's Venice installation demonstrates what we've always known - plants function as architectural elements, not decoration. His structural use of vegetation to define space and create experiential"
+      },
+      "p-maximalist-traditional-decoration": {
+        "verdict": "Skip",
+        "fit": 17,
+        "why": "Interior maximalism contradicts SDG's understated, site-responsive approach to outdoor living design",
+        "opinion": ""
+      },
+      "p-marine-specific-furnishings": {
+        "verdict": "Skip",
+        "fit": 12,
+        "why": "Outside core competency and client base",
+        "opinion": ""
+      },
+      "p-soane-britain-fabrics": {
+        "verdict": "Skip",
+        "fit": 8,
+        "why": "Interior products outside scope of outdoor living environments",
+        "opinion": ""
+      },
+      "p-indoor-gardening": {
+        "verdict": "Watch",
+        "fit": 70,
+        "why": "Opportunity to distinguish structural plant placement from decorative houseplant care",
+        "opinion": "Indoor plants are most often placed where they survive, not where they contribute. We consider how a monstera's fenestrated leaves create privacy screens, how snake plants define circulation paths, ho"
+      },
+      "p-parisian-outdoor-furniture": {
+        "verdict": "Watch",
+        "fit": 57,
+        "why": "Opportunity to reframe geographic styling toward site-specific material selection",
+        "opinion": "Outdoor furniture performs before it references. Teak weathers predictably in salt air. Steel powder-coating resists coastal corrosion. Aluminum frames respond to thermal expansion. The materials we s"
+      },
+      "p-luxury-mechanical-watches": {
+        "verdict": "Skip",
+        "fit": 4,
+        "why": "Completely outside core competency and client interests",
+        "opinion": ""
+      },
+      "p-traditional-layered-rooms": {
+        "verdict": "Watch",
+        "fit": 47,
+        "why": "Opportunity to translate interior layering principles to outdoor living environments",
+        "opinion": "Layering in outdoor rooms requires different materials than interior spaces. Canopy trees establish the ceiling plane. Understory shrubs create the mid-level. Groundcover defines the floor. Each layer"
+      },
+      "p-candlelit-outdoor-spaces": {
+        "verdict": "Watch",
+        "fit": 45,
+        "why": "Opportunity to reframe decorative lighting toward architectural illumination",
+        "opinion": "Outdoor lighting defines space after dark. Candlelight pools at conversation areas. Path lighting guides circulation. Uplighting reveals tree structure. We place light sources where they extend the ar"
+      },
+      "p-layered-family-collections": {
+        "verdict": "Skip",
+        "fit": 16,
+        "why": "Interior collecting outside outdoor living environment scope",
+        "opinion": ""
+      },
+      "p-celebrity-home-tours": {
+        "verdict": "Skip",
+        "fit": 25,
+        "why": "This content format contradicts SDG's commitment to knowledge over spectacle",
+        "opinion": "We are not interested in participating in celebrity home coverage. Our focus remains on the design intelligence behind spatial decisions rather than lifestyle documentation."
+      },
+      "p-leather-sofas": {
+        "verdict": "Skip",
+        "fit": 21,
+        "why": "Interior furniture selection falls outside our experience design focus",
+        "opinion": "Our practice centers on outdoor living environments where materials interact with weather, light, and seasonal change. Interior furniture selection operates in different territory."
+      },
+      "p-order-minimum-workarounds": {
+        "verdict": "Skip",
+        "fit": 35,
+        "why": "Instructional workaround content conflicts with knowledge house positioning",
+        "opinion": "Supply chain relationships require cultivation over tactics. We focus our knowledge sharing on design intelligence rather than procurement workarounds."
+      },
+      "p-wellness-retreats": {
+        "verdict": "Watch",
+        "fit": 54,
+        "why": "Experience design opportunity exists beneath wellness marketing language",
+        "opinion": "When we observe places that restore rather than stimulate, we notice how stone retains coolness, how water moves sound, how canopy layers create graduated light. These are architectural decisions that"
+      },
+      "p-design-centric-city-tourism": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Aligns with documented practice of travel observation informing design decisions",
+        "opinion": "We observe how design intelligence travels. In Naoshima, Ando's concrete against coastal vegetation. At Casa Armani during Milan Design Week, how materials layer through interior and exterior space. T"
+      },
+      "p-outdoor-performance-spaces": {
+        "verdict": "Watch",
+        "fit": 64,
+        "why": "Directly demonstrates core convictions about experience design and plants as architecture",
+        "opinion": "When we design outdoor performance spaces, plants become the walls that shape acoustics and sight lines. We position a grove of bamboo not for its visual effect, but because we are building the sound "
+      },
+      "p-organic-house-design": {
+        "verdict": "Watch",
+        "fit": 50,
+        "why": "Site-responsive design principles valuable but organic terminology problematic",
+        "opinion": "We observe buildings that respond to their specific site conditions rather than imposing predetermined forms. When architecture follows topography, when materials echo local geology, these are site-fi"
+      },
+      "p-kranji-hive-design": {
+        "verdict": "Skip",
+        "fit": 21,
+        "why": "Regional craft documentation lacks relevance to outdoor living design practice",
+        "opinion": "We appreciate cultural craft documentation but focus our knowledge sharing on design intelligence that translates to contemporary site practice."
+      },
+      "p-plant-gardening-therapy": {
+        "verdict": "Watch",
+        "fit": 70,
+        "why": "Therapeutic plant framing undermines structural design intelligence - moment to assert architectural perspective",
+        "opinion": "We observe the comfort narrative around plants during difficult housing markets. The therapeutic framing misses the larger opportunity. Plants placed with architectural intention create environments t"
+      },
+      "p-home-gallery-combinations": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Home-gallery trend opens conversation about art-informed outdoor design intelligence",
+        "opinion": "We see the gallery-home conversation focusing on art display inside houses. The deeper opportunity lies in translating art-literate observation into outdoor environmental composition. When we encounte"
+      },
+      "p-hand-harvested-oolong-teas": {
+        "verdict": "Skip",
+        "fit": 15,
+        "why": "Luxury goods trend outside core design territory",
+        "opinion": ""
+      },
+      "p-john-derian-decoupage-collecting": {
+        "verdict": "Skip",
+        "fit": 15,
+        "why": "Decorative object collecting outside structural design conversation",
+        "opinion": ""
+      },
+      "p-historical-architecture": {
+        "verdict": "Watch",
+        "fit": 47,
+        "why": "Historical architecture provides design precedent but requires site-specific contemporary application",
+        "opinion": "We study Wright's relationship to site not for historical appreciation, but for contemporary application. His Fallingwater demonstrates plants and architecture as integrated structure. When we encount"
+      },
+      "p-tribeca-festival-design-house-collaborat": {
+        "verdict": "Skip",
+        "fit": 22,
+        "why": "Event coverage outside core environmental design conversation",
+        "opinion": ""
+      },
+      "p-cotswolds-countryside-wedding-venues": {
+        "verdict": "Skip",
+        "fit": 19,
+        "why": "Event venue coverage outside residential design conversation",
+        "opinion": ""
+      },
+      "p-meghan-markle-california-garden-lifestyl": {
+        "verdict": "Skip",
+        "fit": 13,
+        "why": "Celebrity garden coverage undermines design intelligence conversation",
+        "opinion": ""
+      },
+      "p-modern-professional-wardrobe": {
+        "verdict": "Skip",
+        "fit": 10,
+        "why": "Fashion content dilutes focus from SDG's architectural and experiential design expertise",
+        "opinion": "We focus our visual intelligence on how materials and forms create experiences in outdoor environments. Professional presentation matters, but our expertise lies in translating observation into landsc"
+      },
+      "p-global-writing-competition": {
+        "verdict": "Skip",
+        "fit": 20,
+        "why": "Commercial content does not align with SDG's knowledge-sharing approach to professional platforms",
+        "opinion": "We believe in the precision that written articulation brings to design thinking. The ability to describe spatial decisions clearly often reveals whether those decisions are structurally sound."
+      },
+      "p-period-authenticity": {
+        "verdict": "Watch",
+        "fit": 60,
+        "why": "Authenticity versus approximation becomes increasingly relevant as clients seek genuine character",
+        "opinion": "We approach period accuracy through the specificity of regional plant palettes and authentic material choices. A Georgian garden requires different stone, different soil preparation, different plant s"
+      },
+      "d-spa-and-wellness-spaces": {
+        "verdict": "Lead",
+        "fit": 73,
+        "why": "Declining demand for spa spaces creates opportunity to discuss authentic outdoor restorative experiences",
+        "opinion": "We create restorative outdoor environments through careful plant placement and material selection, not through spa programming. A grove of mature olive trees positioned to frame distant views provides"
+      },
+      "d-natural-finishes-and-architectural-detai": {
+        "verdict": "Lead",
+        "fit": 72,
+        "why": "Peak professional adoption creates opportunity to distinguish authentic material selection from trending finishes",
+        "opinion": "We select materials based on site conditions and regional availability, not finish trends. Local limestone weathers differently than imported stone, and that weathering becomes part of the design. The"
+      },
+      "d-light-wood-cabinetry": {
+        "verdict": "Skip",
+        "fit": 22,
+        "why": "Interior cabinetry discussion would dilute focus from outdoor living environment expertise",
+        "opinion": "Our material selection focuses on exterior applications where wood must respond to weather patterns, soil moisture, and seasonal temperature changes. We choose species based on performance in outdoor "
+      },
+      "d-butler-s-pantry-and-storage": {
+        "verdict": "Skip",
+        "fit": 8,
+        "why": "Interior storage discussion would represent complete departure from outdoor living environment focus",
+        "opinion": "Our storage solutions focus on outdoor utility areas and equipment housing that integrates with the landscape architecture. Tool storage, irrigation controls, and seasonal furniture require different "
+      },
+      "d-natural-stone-finishes": {
+        "verdict": "Lead",
+        "fit": 74,
+        "why": "Cooling consumer interest in stone finishes creates opportunity to discuss authentic geological material selection",
+        "opinion": "We select stone based on site geology and drainage requirements, not surface finish preferences. Local fieldstone responds differently to freeze-thaw cycles than imported limestone, and that performan"
+      },
+      "d-arched-and-curved-elements": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Consumer cooling creates opportunity to establish SDG's distinction between structural curves and decorative arches",
+        "opinion": "We observe curves where the site demands them — not where style dictates. The retaining wall follows the natural grade, the plant mass curves around existing drainage, the pathway bends to preserve th"
+      },
+      "d-reeded-and-textured-wood-details": {
+        "verdict": "Skip",
+        "fit": 35,
+        "why": "Limited relevance to landscape architecture and structural plant placement",
+        "opinion": "We observe texture where weathering and exposure create it naturally. The cedar fence weathers to silver, the hardwood decking develops grain emphasis through seasonal expansion. These surface changes"
+      },
+      "d-burgundy-and-rich-color-palettes": {
+        "verdict": "Watch",
+        "fit": 68,
+        "why": "Consumer cooling creates space to establish plant-driven color logic versus interior design color trends",
+        "opinion": "We find burgundy where the Japanese maple develops its fall expression, where the Heuchera responds to winter temperatures, where the Nandina berries ripen in December. These colors emerge from plant "
+      },
+      "d-quiet-luxury-aesthetic": {
+        "verdict": "Lead",
+        "fit": 80,
+        "why": "Professional momentum in monochromatic design provides opening to establish authentic restraint versus luxury performance",
+        "opinion": "We observe restraint where materials and plants speak without amplification. The limestone retains its quarry texture, the boxwood maintains its natural density, the gravel remains unstained by sealer"
+      },
+      "d-weathering-steel-and-industrial-metals": {
+        "verdict": "Lead",
+        "fit": 78,
+        "why": "Professional momentum in metal applications provides platform for SDG's site-responsive material expertise",
+        "opinion": "We select weathering steel where salt air accelerates the patina development, where drainage patterns will create specific staining, where the material will develop character through site exposure. Th"
+      },
+      "d-terra-cotta-and-warm-earth-tones": {
+        "verdict": "Watch",
+        "fit": 64,
+        "why": "Consumer cooling creates opportunity to establish material-driven terra cotta logic versus color trend following",
+        "opinion": "We specify terra cotta where the clay content matches site soil composition, where the porosity addresses drainage requirements, where the thermal mass contributes to microclimate control. These conta"
+      },
+      "d-coffered-ceilings": {
+        "verdict": "Skip",
+        "fit": 12,
+        "why": "Interior architectural detail outside landscape architecture scope and client expertise",
+        "opinion": ""
+      },
+      "d-spiraling-staircases": {
+        "verdict": "Skip",
+        "fit": 12,
+        "why": "Architectural interior detail outside landscape architecture scope and client expertise",
+        "opinion": ""
+      },
+      "d-mediterranean-villa-style": {
+        "verdict": "Watch",
+        "fit": 68,
+        "why": "Market interest creates opportunity to educate on authentic Mediterranean landscape integration versus superficial styling",
+        "opinion": "Mediterranean architecture succeeds when it responds to specific site conditions - the way limestone retaining walls follow natural grade changes, or how olive groves are positioned to catch morning l"
+      },
+      "d-english-cottage-charm": {
+        "verdict": "Skip",
+        "fit": 25,
+        "why": "Declining trend with limited design intelligence - not aligned with SDG's structural approach",
+        "opinion": ""
+      },
+      "d-natural-materials-in-neutral-hues": {
+        "verdict": "Watch",
+        "fit": 60,
+        "why": "Opportunity to educate on material selection beyond color considerations while trend has consumer attention",
+        "opinion": "Natural materials earn their place through performance, not color coordination. When we specify Cor-Ten steel for retaining walls, it's because weathering steel develops protective patination that eli"
+      },
+      "d-kitchen-storage-and-organization": {
+        "verdict": "Skip",
+        "fit": 9,
+        "why": "Interior kitchen organization outside SDG's landscape design focus",
+        "opinion": ""
+      },
+      "d-accessible-design-and-aging-in-place": {
+        "verdict": "Watch",
+        "fit": 56,
+        "why": "Growing market need with potential for sophisticated landscape integration approaches",
+        "opinion": "Accessibility becomes invisible when it's designed as site intelligence rather than accommodation. We approach grade changes through terraced plantings that create natural resting points while managin"
+      },
+      "d-low-maintenance-landscapes": {
+        "verdict": "Lead",
+        "fit": 76,
+        "why": "Professional momentum creates opportunity to lead conversation on maintenance as design intelligence",
+        "opinion": "Maintenance requirements reveal design intelligence. When we establish native oak understory communities, the maintenance is seasonal pruning that follows natural growth patterns - not weekly interven"
+      },
+      "d-outdoor-dining-and-entertaining": {
+        "verdict": "Watch",
+        "fit": 68,
+        "why": "Core service offering with strong consumer interest in HNW market",
+        "opinion": "Outdoor dining succeeds when the landscape creates the experience, not when furniture is placed in gardens. We design dining environments through plant architecture - using living walls to define inti"
+      },
+      "d-living-room-layout-and-seating": {
+        "verdict": "Skip",
+        "fit": 7,
+        "why": "Interior design outside SDG's landscape expertise",
+        "opinion": ""
+      },
+      "d-botanical-and-floral-patterns": {
+        "verdict": "Lead",
+        "fit": 77,
+        "why": "Pattern trend provides perfect contrast to demonstrate structural plant philosophy",
+        "opinion": "We watch botanical patterns gain traction in residential design while remaining committed to the living original. When we place a Magnolia grandiflora at the corner of a terrace, we are building archi"
+      },
+      "d-geometric-and-sculptural-lighting": {
+        "verdict": "Watch",
+        "fit": 60,
+        "why": "Trend supports art-informed design approach but requires site-specific application",
+        "opinion": "Sculptural lighting becomes architecture when it responds to site conditions rather than merely occupying space. We consider how evening light patterns interact with plant shadows and hardscape geomet"
+      },
+      "d-kitchen-cabinet-end-solutions": {
+        "verdict": "Skip",
+        "fit": 18,
+        "why": "Interior kitchen details fall outside SDG's outdoor living focus",
+        "opinion": ""
+      },
+      "d-heritage-brick-and-masonry": {
+        "verdict": "Watch",
+        "fit": 64,
+        "why": "Heritage materials can anchor authentic site-responsive design when properly applied",
+        "opinion": "Heritage masonry creates lasting hardscape when it emerges from site history rather than stylistic preference. We work with reclaimed limestone in Connecticut projects because the material connects to"
+      },
+      "d-durable-family-friendly-materials": {
+        "verdict": "Watch",
+        "fit": 49,
+        "why": "Material durability relevant but family lifestyle framing risks instructional tone",
+        "opinion": "Material selection responds to site conditions and intended use patterns rather than abstract lifestyle categories. We specify bluestone for pool decking because the material handles freeze-thaw cycle"
+      },
+      "d-decorative-furniture-detailing": {
+        "verdict": "Skip",
+        "fit": 28,
+        "why": "Decorative furniture details fall outside structural design focus and site-based philosophy",
+        "opinion": ""
+      },
+      "d-kitchen-circulation-and-layout": {
+        "verdict": "Skip",
+        "fit": 16,
+        "why": "Interior kitchen layouts fall outside outdoor living environment focus",
+        "opinion": ""
+      },
+      "d-collected-global-style": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Global design inspiration valuable when site-specific rather than stylistic collection",
+        "opinion": "We draw from global design traditions when they serve site-specific solutions rather than stylistic collection. The terraced stone work we observed in Kyoto's temple gardens informed our approach to a"
+      },
+      "d-seamless-indoor-outdoor-living": {
+        "verdict": "Watch",
+        "fit": 69,
+        "why": "Core SDG capability perfectly positioned for established luxury market expectation",
+        "opinion": "When we position a mature olive grove to extend the living room's sightlines into the garden, we are not decorating the transition between inside and outside. We are using plants as architecture to el"
+      },
+      "d-multigenerational-living-solutions": {
+        "verdict": "Skip",
+        "fit": 25,
+        "why": "Outside core competency area with limited outdoor space implications",
+        "opinion": "When designing outdoor living environments for multiple generations, we consider how different mobility levels and usage patterns interact with the site. The placement of seating areas, pathway materi"
+      },
+      "d-construction-and-project-management": {
+        "verdict": "Skip",
+        "fit": 23,
+        "why": "Conflicts with professional positioning and offers no design insight opportunity",
+        "opinion": ""
+      },
+      "d-patio-protection-and-shade": {
+        "verdict": "Watch",
+        "fit": 63,
+        "why": "Core competency area with opportunity to distinguish approach from product-based solutions",
+        "opinion": "We use plants as architecture to create protection and microclimate, not products. When we position a grove of mature live oaks to filter western sun across a dining terrace, we are building shade int"
+      },
+      "d-scandinavian-design-influences": {
+        "verdict": "Watch",
+        "fit": 64,
+        "why": "Opportunity to distinguish site-responsive approach from style importation",
+        "opinion": "When we observe Nordic design principles, we extract the relationship to site and climate, not the aesthetic formula. Scandinavian gardens succeed through plant selections that reflect their specific "
+      },
+      "d-outdoor-kitchen-and-living-systems": {
+        "verdict": "Watch",
+        "fit": 51,
+        "why": "Within competency area but risks product-focused discussion",
+        "opinion": "We design outdoor living environments where cooking becomes part of the site's experience, not an imported indoor function. When we position screening plants to create wind protection around a cooking"
+      },
+      "d-deep-blue-green-cabinetry": {
+        "verdict": "Skip",
+        "fit": 3,
+        "why": "Interior trend with no outdoor space relevance or design insight opportunity",
+        "opinion": ""
+      },
+      "d-kitchen-islands-and-work-zones": {
+        "verdict": "Skip",
+        "fit": 4,
+        "why": "Interior trend with no outdoor space relevance or design insight opportunity",
+        "opinion": ""
+      },
+      "d-scalloped-and-wave-tile": {
+        "verdict": "Skip",
+        "fit": 21,
+        "why": "Falls outside SDG's expertise in experience design and structural planting; positions firm as interior finisher rather than experience designer",
+        "opinion": ""
+      },
+      "d-turquoise-color-schemes": {
+        "verdict": "Watch",
+        "fit": 46,
+        "why": "Opportunity to reframe color choice as site response rather than aesthetic preference, but requires specific project context",
+        "opinion": "We respond to what the site offers before we introduce color. Turquoise emerges naturally where light reflects off water onto limestone, where salt air meets indigenous succulents. The color becomes i"
+      },
+      "d-architectural-presence-and-scale": {
+        "verdict": "Watch",
+        "fit": 68,
+        "why": "Direct alignment with core conviction about plants as architecture and experience design philosophy",
+        "opinion": "We use plants as architecture to create presence and scale. A single mature Quercus agrifolia positioned to frame a view carries more architectural weight than any hardscape element. The scale emerges"
+      },
+      "d-complete-seclusion-and-privacy": {
+        "verdict": "Watch",
+        "fit": 67,
+        "why": "Opportunity to reframe privacy from defensive barrier to experiential intimacy using plants as architecture",
+        "opinion": "We create privacy through strategic placement rather than defensive barriers. A grove of Cupressus sempervirens positioned to frame morning light provides seclusion while maintaining connection to the"
+      },
+      "d-art-collection-display": {
+        "verdict": "Watch",
+        "fit": 70,
+        "why": "Direct alignment with art-informed design conviction and experience design philosophy, leveraging SDG's art world expertise",
+        "opinion": "We approach art integration as spatial dialogue, not display case installation. A James Turrell piece requires different site relationships than a Richard Serra sculpture. The landscape responds to th"
+      },
+      "d-window-maintenance": {
+        "verdict": "Skip",
+        "fit": 17,
+        "why": "Falls into forbidden instructional/maintenance category and positions firm as trade contractor rather than experience designer",
+        "opinion": ""
+      }
+    }
+  }
+}
