@@ -1,0 +1,35 @@
+name: ARTIS monthly run
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: artis-run
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11", cache: pip }
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: pip install -r pipeline/requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Run the pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_REPO: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_BRANCH: ${{ github.ref_name }}
+          GITHUB_BLUEPRINT_DIR: blueprints
+          GITHUB_DATA_PATH: prototype/data.js
+          ARTIS_REPO_ROOT: ${{ github.workspace }}
+          ARTIS_ROOT: ${{ github.workspace }}/pipeline/workdir
+          ARTIS_BLUEPRINTS: ${{ github.workspace }}/blueprints
+          ARTIS_APP_ROOT: ${{ github.workspace }}
+        run: python pipeline/orchestrate_pipelines.py
